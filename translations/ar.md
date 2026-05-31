@@ -3,13 +3,13 @@
 
 ---
 
-- 📖 My new book [Effective Shell (Online Version)](https://effective-shell.com) on [Amazon (Print/Kindle)](https://amzn.to/4ho0F91)
-- 🌍 Try [hacker-laws.com](https://hacker-laws.com)
-- 🧠 Check out my new project [Terminal AI](https://github.com/dwmkerr/terminal-ai)
-- ☕️ Like this project? Consider [buying me a coffee with a one-off donation](https://github.com/sponsors/dwmkerr?frequency=one-time)
-- 🎧 Listen to the podcast [The Changelog - Laws for Hackers to Live By](https://changelog.com/podcast/403)
-- 📖 Download the [PDF eBook](https://github.com/dwmkerr/hacker-laws/releases/latest/download/hacker-laws.pdf)
-- 🌏 See the Translations: [🇧🇷](./translations/pt-BR.md) [🇨🇳](https://github.com/nusr/hacker-laws-zh) [🇫🇷](./translations/fr.md) [🇮🇹](./translations/it-IT.md) [🇱🇻](./translations/lv.md) [🇰🇷](https://github.com/codeanddonuts/hacker-laws-kr) [🇷🇺](https://github.com/solarrust/hacker-laws) [🇪🇸](./translations/es-ES.md) [🇹🇷](./translations/tr.md) [🇮🇩](./translations/id.md) [🇯🇵](./translations/jp.md) [🇵🇱](./translations/pl.md) [🇻🇳](./translations/vi.md)
+- 📖 كتابي الجديد ["Effective Shell" (نسخة إلكترونية)](https://effective-shell.com) متوفر على [أمازون (نسخة مطبوعة/كيندل)](https://amzn.to/4ho0F91)
+- 🌍 جرب [موقع hacker-laws.com](https://hacker-laws.com)
+- 🧠 اطلعوا على مشروعي الجديد [Terminal AI](https://github.com/dwmkerr/terminal-ai)
+- ☕️ هل أعجبك هذا المشروع؟ يمكنك [دعمي بتبرع لمرة واحدة.](https://github.com/sponsors/dwmkerr?frequency=one-time)
+- 🎧 استمع إلى بودكاست ["سجل التغييرات - قوانين يجب على المخترقين اتباعها"](https://changelog.com/podcast/403)
+- 📖 حمّل [الكتاب الإلكتروني بصيغة PDF](https://github.com/dwmkerr/hacker-laws/releases/latest/download/hacker-laws.pdf)
+- 🌏 انظر الترجمات: [🇧🇷](./translations/pt-BR.md) [🇨🇳](https://github.com/nusr/hacker-laws-zh) [🇫🇷](./translations/fr.md) [🇮🇹](./translations/it-IT.md) [🇱🇻](./translations/lv.md) [🇰🇷](https://github.com/codeanddonuts/hacker-laws-kr) [🇷🇺](https://github.com/solarrust/hacker-laws) [🇪🇸](./translations/es-ES.md) [🇹🇷](./translations/tr.md) [🇮🇩](./translations/id.md) [🇯🇵](./translations/jp.md) [🇵🇱](./translations/pl.md) [🇻🇳](./translations/vi.md)
 
 ---
 
@@ -19,78 +19,78 @@
 - [القوانين](#laws)
     - [مبدأ 90-9-1 (قاعدة 1%)](#9091-principle-1-rule)
     - قاعدة 90-90
-    - [Amdahl's Law](#amdahls-law)
-    - [The Broken Windows Theory](#the-broken-windows-theory)
-    - [Brooks' Law](#brooks-law)
-    - [CAP Theorem (Brewer's Theorem)](#cap-theorem-brewers-theorem)
-    - [Clarke's three laws](#clarkes-three-laws)
-    - [Conway's Law](#conways-law)
-    - [Cunningham's Law](#cunninghams-law)
-    - [Dunbar's Number](#dunbars-number)
-    - [The Dunning-Kruger Effect](#the-dunning-kruger-effect)
-    - [Fitts' Law](#fitts-law)
-    - [Gall's Law](#galls-law)
-    - [Goodhart's Law](#goodharts-law)
-    - [Hanlon's Razor](#hanlons-razor)
-    - [Hick's Law (Hick-Hyman Law)](#hicks-law-hick-hyman-law)
+    - [قانون أمدال](#amdahls-law)
+    - [نظرية النوافذ المكسورة](#the-broken-windows-theory)
+    - [قانون بروكس](#brooks-law)
+    - [نظرية CAP (نظرية بروير)](#cap-theorem-brewers-theorem)
+    - [قوانين كلارك الثلاثة](#clarkes-three-laws)
+    - [قانون كونواي](#conways-law)
+    - [قانون كننغهام](#cunninghams-law)
+    - [رقم دنبار](#dunbars-number)
+    - [تأثير دانينغ-كروجر](#the-dunning-kruger-effect)
+    - [قانون فيتس](#fitts-law)
+    - [قانون غال](#galls-law)
+    - [قانون جود هارت](#goodharts-law)
+    - [شفرة هانلون](#hanlons-razor)
+    - [قانون هيك (قانون هيك-هايمان)](#hicks-law-hick-hyman-law)
     - [قانون هوفستاتر](#hofstadters-law)
-    - [Hutber's Law](#hutbers-law)
-    - [The Hype Cycle &amp; Amara's Law](#the-hype-cycle--amaras-law)
-    - [Hyrum's Law (The Law of Implicit Interfaces)](#hyrums-law-the-law-of-implicit-interfaces)
-    - [Jevons' Paradox](#jevons-paradox)
-    - [Input-Process-Output (IPO)](#input-process-output-ipo)
-    - [Kernighan's Law](#kernighans-law)
-    - [Koomey's Law](#koomeys-law)
-    - [Linus's Law](#linuss-law)
-    - [Metcalfe's Law](#metcalfes-law)
-    - [Moore's Law](#moores-law)
-    - [Murphy's Law / Sod's Law](#murphys-law--sods-law)
-    - [Occam's Razor](#occams-razor)
-    - [Parkinson's Law](#parkinsons-law)
-    - [Premature Optimization Effect](#premature-optimization-effect)
-    - [Putt's Law](#putts-law)
-    - [Reed's Law](#reeds-law)
-    - [The Bitter Lesson](#the-bitter-lesson)
-    - [The Ringelmann Effect](#the-ringelmann-effect)
-    - [The Law of Conservation of Complexity (Tesler's Law)](#the-law-of-conservation-of-complexity-teslers-law)
-    - [The Law of Demeter](#the-law-of-demeter)
-    - [The Law of Leaky Abstractions](#the-law-of-leaky-abstractions)
-    - [The Law of the Instrument](#the-law-of-the-instrument)
-    - [The Law of Triviality](#the-law-of-triviality)
-    - [The Unix Philosophy](#the-unix-philosophy)
-    - [The Scout Rule](#the-scout-rule)
-    - [The Spotify Model](#the-spotify-model)
-    - [The Two Pizza Rule](#the-two-pizza-rule)
-    - [Twyman's law](#twymans-law)
-    - [Wadler's Law](#wadlers-law)
-    - [Wheaton's Law](#wheatons-law)
-- [Principles](#principles)
-    - [All Models Are Wrong (George Box's Law)](#all-models-are-wrong-george-boxs-law)
-    - [Chesterton's Fence](#chestertons-fence)
-    - [Kerckhoffs's principle](#kerckhoffss-principle)
-    - [The Dead Sea Effect](#the-dead-sea-effect)
-    - [The Dilbert Principle](#the-dilbert-principle)
-    - [The Pareto Principle (The 80/20 Rule)](#the-pareto-principle-the-8020-rule)
-    - [The Shirky Principle](#the-shirky-principle)
-    - [The Stochastic Parrot](#the-stochastic-parrot)
-    - [The Peter Principle](#the-peter-principle)
-    - [The Robustness Principle (Postel's Law)](#the-robustness-principle-postels-law)
-    - [SOLID](#solid)
-    - [The Single Responsibility Principle](#the-single-responsibility-principle)
-    - [The Open/Closed Principle](#the-openclosed-principle)
-    - [The Liskov Substitution Principle](#the-liskov-substitution-principle)
-    - [The Interface Segregation Principle](#the-interface-segregation-principle)
-    - [The Dependency Inversion Principle](#the-dependency-inversion-principle)
-    - [The DRY Principle](#the-dry-principle)
-    - [The KISS principle](#the-kiss-principle)
-    - [YAGNI](#yagni)
-    - [The Fallacies of Distributed Computing](#the-fallacies-of-distributed-computing)
-    - [The Principle of Least Astonishment](#the-principle-of-least-astonishment)
-- [Reading List](#reading-list)
-- [Online Resources](#online-resources)
-- [PDF eBook](#pdf-ebook)
-- [Podcast](#podcast)
-- [Contributors](#contributors)
+    - [قانون هوتبر](#hutbers-law)
+    - [دورة الضجيج وقانون أمارا](#the-hype-cycle--amaras-law)
+    - [قانون هيروم (قانون الواجهات الضمنية)](#hyrums-law-the-law-of-implicit-interfaces)
+    - [مفارقة جيفونز](#jevons-paradox)
+    - [المدخلات - المعالجة - المخرجات (IPO)](#input-process-output-ipo)
+    - [قانون كيرنيغان](#kernighans-law)
+    - [قانون كومي](#koomeys-law)
+    - [قانون لينوس](#linuss-law)
+    - [قانون ميتكالف](#metcalfes-law)
+    - [قانون مور](#moores-law)
+    - [قانون مورفي / قانون سود](#murphys-law--sods-law)
+    - [مبدأ أوكام](#occams-razor)
+    - [قانون باركنسون](#parkinsons-law)
+    - [تأثير التحسين المبكر](#premature-optimization-effect)
+    - [قانون بوت](#putts-law)
+    - [قانون ريد](#reeds-law)
+    - [الدرس المرير](#the-bitter-lesson)
+    - [تأثير رينجلمان](#the-ringelmann-effect)
+    - [قانون حفظ التعقيد (قانون تيسلر)](#the-law-of-conservation-of-complexity-teslers-law)
+    - [قانون ديميتر](#the-law-of-demeter)
+    - [قانون التجريدات المتسربة](#the-law-of-leaky-abstractions)
+    - [قانون الصك](#the-law-of-the-instrument)
+    - [قانون التفاهة](#the-law-of-triviality)
+    - [فلسفة يونكس](#the-unix-philosophy)
+    - [قاعدة الكشافة](#the-scout-rule)
+    - [نموذج سبوتيفاي](#the-spotify-model)
+    - [قاعدة البيتزا المزدوجة](#the-two-pizza-rule)
+    - [قانون تويمان](#twymans-law)
+    - [قانون وادلر](#wadlers-law)
+    - [قانون ويتون](#wheatons-law)
+- [مبادئ](#principles)
+    - [جميع النماذج خاطئة (قانون جورج بوكس)](#all-models-are-wrong-george-boxs-law)
+    - [سياج تشيسترتون](#chestertons-fence)
+    - [مبدأ كيركوف](#kerckhoffss-principle)
+    - [تأثير البحر الميت](#the-dead-sea-effect)
+    - [مبدأ ديلبرت](#the-dilbert-principle)
+    - [مبدأ باريتو (قاعدة 80/20)](#the-pareto-principle-the-8020-rule)
+    - [مبدأ شيركي](#the-shirky-principle)
+    - [الببغاء العشوائي](#the-stochastic-parrot)
+    - [مبدأ بيتر](#the-peter-principle)
+    - [مبدأ المتانة (قانون بوستل)](#the-robustness-principle-postels-law)
+    - [صلب](#solid)
+    - [مبدأ المسؤولية الواحدة](#the-single-responsibility-principle)
+    - [مبدأ الانفتاح/الإغلاق](#the-openclosed-principle)
+    - [مبدأ استبدال ليسكوف](#the-liskov-substitution-principle)
+    - [مبدأ فصل الواجهة](#the-interface-segregation-principle)
+    - [مبدأ انعكاس التبعية](#the-dependency-inversion-principle)
+    - [مبدأ الجفاف](#the-dry-principle)
+    - [مبدأ البساطة](#the-kiss-principle)
+    - [ياغني](#yagni)
+    - [مغالطات الحوسبة الموزعة](#the-fallacies-of-distributed-computing)
+    - [مبدأ أقل قدر من الدهشة](#the-principle-of-least-astonishment)
+- [قائمة القراءة](#reading-list)
+- [الموارد الإلكترونية](#online-resources)
+- [كتاب إلكتروني بصيغة PDF](#pdf-ebook)
+- [بودكاست](#podcast)
+- [المساهمون](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -131,1098 +131,1098 @@
 - [قانون هوفستاتر](#hofstadters-law)
 - [مبدأ باريتو](#the-pareto-principle-the-8020-rule)
 
-### Amdahl's Law
+### قانون أمدال
 
-[Amdahl's Law on Wikipedia](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+[قانون أمدال على ويكيبيديا](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 
-> Amdahl's Law is a formula which shows the *potential speedup* of a computational task which can be achieved by increasing the resources of a system. Normally used in parallel computing, it can predict the actual benefit of increasing the number of processors, which is limited by the parallelisability of the program.
+> قانون أمدال هو صيغة توضح *إمكانية تسريع* مهمة حسابية بزيادة موارد النظام. يُستخدم عادةً في الحوسبة المتوازية، حيث يمكنه التنبؤ بالفائدة الفعلية لزيادة عدد المعالجات، والتي تُحدَّد بمدى قابلية البرنامج للتوازي.
 
-Best illustrated with an example. If a program is made up of two parts, part A, which must be executed by a single processor, and part B, which can be parallelised, then we see that adding multiple processors to the system executing the program can only have a limited benefit. It can potentially greatly improve the speed of part B - but the speed of part A will remain unchanged.
+يتضح هذا بشكل أفضل من خلال مثال. إذا كان البرنامج يتكون من جزأين، الجزء (أ) الذي يجب تنفيذه بواسطة معالج واحد، والجزء (ب) الذي يمكن تنفيذه بالتوازي، فسنجد أن إضافة معالجات متعددة إلى النظام الذي ينفذ البرنامج لن يكون لها سوى فائدة محدودة. قد يؤدي ذلك إلى تحسين سرعة الجزء (ب) بشكل كبير، لكن سرعة الجزء (أ) ستبقى كما هي.
 
-The diagram below shows some examples of potential improvements in speed:
+يوضح الرسم البياني أدناه بعض الأمثلة على التحسينات المحتملة في السرعة:
 
 
-<img width="480px" alt="Diagram: Amdahl's Law" src="./images/amdahls_law.png">
+<img width="480px" alt="رسم بياني: قانون أمدال" src="./images/amdahls_law.png">
 
-As can be seen, even a program which is 50% parallelisable will benefit very little beyond 10 processing units, whereas a program which is 95% parallelisable can still achieve significant speed improvements with over a thousand processing units.
+كما هو واضح، حتى البرنامج الذي يمكن تنفيذه بالتوازي بنسبة 50٪ لن يستفيد إلا قليلاً من أكثر من 10 وحدات معالجة، في حين أن البرنامج الذي يمكن تنفيذه بالتوازي بنسبة 95٪ لا يزال بإمكانه تحقيق تحسينات كبيرة في السرعة مع أكثر من ألف وحدة معالجة.
 
-As [Moore's Law](#moores-law) slows, and the acceleration of individual processor speed slows, parallelisation is key to improving performance. Graphics programming is an excellent example - with modern Shader based computing, individual pixels or fragments can be rendered in parallel - this is why modern graphics cards often have many thousands of processing cores (GPUs or Shader Units).
-
-انظر أيضاً:
-
-- [Brooks' Law](#brooks-law)
-- [Moore's Law](#moores-law)
-
-### The Broken Windows Theory
-
-[The Broken Windows Theory on Wikipedia](https://en.wikipedia.org/wiki/Broken_windows_theory)
-
-The Broken Windows Theory suggests that visible signs of crime (or lack of care of an environment) lead to further and more serious crimes (or further deterioration of the environment).
-
-This theory has been applied to software development, suggesting that poor quality code (or [Technical Debt](#TODO)) can lead to a perception that efforts to improve quality may be ignored or undervalued, thus leading to further poor quality code. This effect cascades leading to a great decrease in quality over time.
+مع تباطؤ [قانون مور](#moores-law) ، وتباطؤ تسارع سرعة المعالجات الفردية، يصبح التوازي أساسيًا لتحسين الأداء. وتُعد برمجة الرسومات مثالًا ممتازًا على ذلك؛ فمع الحوسبة الحديثة القائمة على التظليل، يمكن عرض وحدات البكسل أو الأجزاء الفردية بالتوازي، ولهذا السبب غالبًا ما تحتوي بطاقات الرسومات الحديثة على آلاف من نوى المعالجة (وحدات معالجة الرسومات أو وحدات التظليل).
 
 انظر أيضاً:
 
-- [Technical Debt](#TODO)
+- [قانون بروكس](#brooks-law)
+- [قانون مور](#moores-law)
 
-Examples:
+### نظرية النوافذ المكسورة
 
-- [The Pragmatic Programming: Software Entropy](https://flylib.com/books/en/1.315.1.15/1/)
-- [Coding Horror: The Broken Window Theory](https://blog.codinghorror.com/the-broken-window-theory/)
-- [OpenSource: Joy of Programming - The Broken Window Theory](https://opensourceforu.com/2011/05/joy-of-programming-broken-window-theory/)
+[نظرية النوافذ المكسورة على ويكيبيديا](https://en.wikipedia.org/wiki/Broken_windows_theory)
 
-### Brooks' Law
+تشير نظرية النوافذ المكسورة إلى أن العلامات المرئية للجريمة (أو عدم الاهتمام بالبيئة) تؤدي إلى جرائم أخرى أكثر خطورة (أو إلى مزيد من تدهور البيئة).
 
-[Brooks' Law on Wikipedia](https://en.wikipedia.org/wiki/Brooks%27s_law)
-
-> Adding human resources to a late software development project makes it later.
-
-This law suggests that in many cases, attempting to accelerate the delivery of a project which is already late, by adding more people, will make the delivery even later. Brooks is clear that this is an over-simplification, however, the general reasoning is that given the ramp-up time of new resources and the communication overheads, in the immediate short-term velocity decreases. Also, many tasks may not be divisible, i.e. easily distributed between more resources, meaning the potential velocity increase is also lower.
-
-The common phrase in delivery "Nine women can't make a baby in one month" relates to Brooks' Law, in particular, the fact that some kinds of work are not divisible or parallelisable.
-
-This is a central theme of the book '[The Mythical Man Month](#reading-list)'.
+طُبقت هذه النظرية على تطوير البرمجيات، حيث تشير إلى أن رداءة جودة الكود (أو [الديون التقنية](#TODO) ) قد تؤدي إلى الاعتقاد بأن الجهود المبذولة لتحسين الجودة قد تُتجاهل أو تُستهان بها، مما يُفضي إلى مزيد من رداءة جودة الكود. ويتفاقم هذا التأثير تدريجيًا، مُسببًا انخفاضًا كبيرًا في الجودة مع مرور الوقت.
 
 انظر أيضاً:
 
-- [Death March](#todo)
-- [Reading List: The Mythical Man Month](#reading-list)
+- [الديون التقنية](#TODO)
 
-### CAP Theorem (Brewer's Theorem)
+أمثلة:
 
-The CAP Theorem (defined by Eric Brewer) states that for a distributed data store only two out of the following three guarantees (at most) can be made:
+- [البرمجة البراغماتية: إنتروبيا البرمجيات](https://flylib.com/books/en/1.315.1.15/1/)
+- [رعب البرمجة: نظرية النافذة المكسورة](https://blog.codinghorror.com/the-broken-window-theory/)
+- [المصادر المفتوحة: متعة البرمجة - نظرية النافذة المكسورة](https://opensourceforu.com/2011/05/joy-of-programming-broken-window-theory/)
 
-- Consistency: when reading data, every request receives the *most recent* data or an error is returned
-- Availability: when reading data, every request receives *a non error response*, without the guarantee that it is the *most recent* data
-- Partition Tolerance: when an arbitrary number of network requests between nodes fail, the system continues to operate as expected
+### قانون بروكس
 
-The core of the reasoning is as follows. It is impossible to guarantee that a network partition will not occur (see [The Fallacies of Distributed Computing](#the-fallacies-of-distributed-computing)). Therefore in the case of a partition we can either cancel the operation (increasing consistency and decreasing availability) or proceed (increasing availability but decreasing consistency).
+[قانون بروكس على ويكيبيديا](https://en.wikipedia.org/wiki/Brooks%27s_law)
 
-The name comes from the first letters of the guarantees (Consistency, Availability, Partition Tolerance). Note that it is very important to be aware that this does *not* relate to [*ACID*](#TODO), which has a different definition of consistency. More recently, [PACELC](#TODO) theorem has been developed which adds constraints for latency and consistency when the network is *not* partitioned (i.e. when the system is operating as expected).
+> إن إضافة موارد بشرية إلى مشروع تطوير برمجيات متأخر يؤدي إلى تأخيره.
 
-Most modern database platforms acknowledge this theorem implicitly by offering the user of the database the option to choose between whether they want a highly available operation (which might include a 'dirty read') or a highly consistent operation (for example a 'quorum acknowledged write').
+يشير هذا القانون إلى أنه في كثير من الحالات، فإن محاولة تسريع إنجاز مشروع متأخر بالفعل، بإضافة المزيد من الأفراد، ستؤدي إلى تأخير التسليم أكثر. ويوضح بروكس أن هذا تبسيط مفرط، إلا أن المنطق العام يكمن في أنه بالنظر إلى الوقت اللازم لتجهيز الموارد الجديدة وتكاليف التواصل، فإن سرعة الإنجاز تنخفض على المدى القصير. كما أن العديد من المهام قد لا تكون قابلة للتجزئة، أي لا يمكن توزيعها بسهولة بين موارد إضافية، مما يعني أن الزيادة المحتملة في سرعة الإنجاز ستكون أقل أيضًا.
 
-Real world examples:
+العبارة الشائعة في مجال الولادة "تسع نساء لا يستطعن ​​إنجاب طفل في شهر واحد" تتعلق بقانون بروكس، وعلى وجه الخصوص، حقيقة أن بعض أنواع العمل غير قابلة للتجزئة أو التوازي.
 
-- [Inside Google Cloud Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem) - Goes into the details of how Cloud Spanner works, which appears at first to seem like a platform which has *all* of the guarantees of CAP, but under the hood is essentially a CP system.
+هذا موضوع رئيسي في كتاب " [الشهر الأسطوري للرجل](#reading-list) ".
+
+انظر أيضاً:
+
+- [مسيرة الموت](#todo)
+- [قائمة القراءة: الشهر الأسطوري للرجل](#reading-list)
+
+### نظرية CAP (نظرية بروير)
+
+تنص نظرية CAP (التي وضعها إريك بروير) على أنه بالنسبة لمخزن بيانات موزع، لا يمكن تقديم سوى اثنين من الضمانات الثلاثة التالية (على الأكثر):
+
+- الاتساق: عند قراءة البيانات، يتلقى كل طلب *أحدث* البيانات أو يتم إرجاع خطأ.
+- التوافر: عند قراءة البيانات، يتلقى كل طلب *استجابة غير خاطئة* ، دون ضمان أنها *أحدث* البيانات.
+- تحمل التقسيم: عندما يفشل عدد عشوائي من طلبات الشبكة بين العقد، يستمر النظام في العمل كما هو متوقع
+
+جوهر هذا المنطق هو التالي: من المستحيل ضمان عدم حدوث انقطاع في الشبكة (انظر: [مغالطات الحوسبة الموزعة](#the-fallacies-of-distributed-computing) ). لذلك، في حالة حدوث انقطاع، يمكننا إما إلغاء العملية (مما يزيد من الاتساق ويقلل من التوافر) أو المضي قدمًا (مما يزيد من التوافر ولكنه يقلل من الاتساق).
+
+يُشتق الاسم من الأحرف الأولى للضمانات (الاتساق، والتوافر، وتحمل التقسيم). تجدر الإشارة إلى أن هذا *لا* يرتبط بـ [*ACID*](#TODO) ، الذي يُعرّف الاتساق بشكل مختلف. ومؤخرًا، طُوّرت نظرية [PACELC](#TODO) التي تُضيف قيودًا على زمن الاستجابة والاتساق عندما *لا* تكون الشبكة مُقسّمة (أي عندما يعمل النظام كما هو مُتوقع).
+
+معظم منصات قواعد البيانات الحديثة تعترف بهذه النظرية ضمنيًا من خلال منح مستخدم قاعدة البيانات خيار الاختيار بين ما إذا كان يريد عملية عالية التوفر (والتي قد تتضمن "قراءة غير نظيفة") أو عملية متسقة للغاية (على سبيل المثال "كتابة مؤكدة من قبل النصاب").
+
+أمثلة من الواقع:
+
+- [نظرة داخلية على Google Cloud Spanner ونظرية CAP](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem) - يتناول بالتفصيل كيفية عمل Cloud Spanner، والذي يبدو في البداية وكأنه منصة تتمتع *بجميع* ضمانات CAP، ولكنه في الأساس نظام CP.
 
 انظر أيضاً:
 
 - [ACID](#TODO)
-- [The Fallacies of Distributed Computing](#the-fallacies-of-distributed-computing)
+- [مغالطات الحوسبة الموزعة](#the-fallacies-of-distributed-computing)
 - [PACELC](#TODO)
 
-### Clarke's three laws
+### قوانين كلارك الثلاثة
 
-[Clarke's three laws on Wikipedia](https://en.wikipedia.org/wiki/Clarke's_three_laws)
+[قوانين كلارك الثلاثة على ويكيبيديا](https://en.wikipedia.org/wiki/Clarke's_three_laws)
 
-Arthur C. Clarke, an british science fiction writer, formulated three adages that are known as Clarke's three laws. The third law is the best known and most widely cited.
+وضع آرثر سي كلارك، وهو كاتب خيال علمي بريطاني، ثلاث مقولات تُعرف باسم قوانين كلارك الثلاثة. ويُعدّ القانون الثالث أشهرها وأكثرها استشهاداً.
 
-These so-called laws are:
+هذه القوانين المزعومة هي:
 
-- When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
-- The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
-- Any sufficiently advanced technology is indistinguishable from magic.
+- عندما يُصرّح عالمٌ مرموقٌ مُسنٌّ بأنّ شيئًا ما ممكن، فمن شبه المؤكد أنه مُصيب. أما عندما يُصرّح بأنّ شيئًا ما مستحيل، فمن المُرجّح جدًا أن يكون مُخطئًا.
+- إن السبيل الوحيد لاكتشاف حدود الممكن هو المغامرة قليلاً إلى ما وراءها نحو المستحيل.
+- أي تقنية متقدمة بما فيه الكفاية لا يمكن تمييزها عن السحر.
 
-### Conway's Law
+### قانون كونواي
 
-[Conway's Law on Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
+[قانون كونواي على ويكيبيديا](https://en.wikipedia.org/wiki/Conway%27s_law)
 
-This law suggests that the technical boundaries of a system will reflect the structure of the organisation. It is commonly referred to when looking at organisation improvements, Conway's Law suggests that if an organisation is structured into many small, disconnected units, the software it produces will be. If an organisation is built more around 'verticals' which are oriented around features or services, the software systems will also reflect this.
+يشير هذا القانون إلى أن الحدود التقنية للنظام تعكس هيكل المؤسسة. ويُستشهد به عادةً عند دراسة تحسينات المؤسسات، حيث ينص قانون كونواي على أنه إذا كانت المؤسسة مُقسّمة إلى وحدات صغيرة منفصلة، ​​فإن البرمجيات التي تُنتجها ستكون كذلك. وإذا كانت المؤسسة مبنية بشكل أكبر على "قطاعات رأسية" مُوجّهة نحو الميزات أو الخدمات، فإن أنظمة البرمجيات ستعكس ذلك أيضًا.
 
 انظر أيضاً:
 
-- [The Spotify Model](#the-spotify-model)
+- [نموذج سبوتيفاي](#the-spotify-model)
 
-### Cunningham's Law
+### قانون كننغهام
 
-[Cunningham's Law on Wikipedia](https://en.wikipedia.org/wiki/Ward_Cunningham#Cunningham's_Law)
+[قانون كننغهام على ويكيبيديا](https://en.wikipedia.org/wiki/Ward_Cunningham#Cunningham's_Law)
 
-> The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer.
+> إن أفضل طريقة للحصول على الإجابة الصحيحة على الإنترنت ليست طرح سؤال، بل نشر إجابة خاطئة.
 
 بحسب ستيفن ماكجيدي، نصحه وارد كانينغهام في أوائل ثمانينيات القرن الماضي قائلاً: "أفضل طريقة للحصول على الإجابة الصحيحة على الإنترنت ليست طرح سؤال، بل نشر إجابة خاطئة". أطلق ماكجيدي على هذا القول اسم "قانون كانينغهام"، مع أن كانينغهام ينفي نسبته إليه ويصفه بأنه "تحريف". ورغم أن القانون كان يشير في الأصل إلى التفاعلات على منصة يوزنت، فقد استُخدم لوصف كيفية عمل المجتمعات الإلكترونية الأخرى (مثل ويكيبيديا، وريديت، وتويتر، وفيسبوك).
 
 انظر أيضاً:
 
-- [XKCD 386: "Duty Calls"](https://xkcd.com/386/)
+- [XKCD 386: "نداء الواجب"](https://xkcd.com/386/)
 
-### Dunbar's Number
+### رقم دنبار
 
-[Dunbar's Number on Wikipedia](https://en.wikipedia.org/wiki/Dunbar%27s_number)
+[رقم دنبار على ويكيبيديا](https://en.wikipedia.org/wiki/Dunbar%27s_number)
 
-"Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships— relationships in which an individual knows who each person is and how each person relates to every other person." There is some disagreement to the exact number. "... [Dunbar] proposed that humans can comfortably maintain only 150 stable relationships." He put the number into a more social context, "the number of people you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar." Estimates for the number generally lay between 100 and 250.
+يُشير "رقم دنبار" إلى حدٍّ معرفي مُقترح لعدد الأشخاص الذين يُمكن للفرد الحفاظ معهم على علاقات اجتماعية مستقرة، أي علاقات يعرف فيها الفرد كل شخص على حدة، وكيفية ارتباط كل شخص بالآخر. ويُوجد بعض الاختلاف حول الرقم الدقيق. فقد اقترح دنبار أن الإنسان لا يستطيع الحفاظ على أكثر من 150 علاقة مستقرة بشكل مريح. وقد وضع هذا الرقم في سياق اجتماعي أوسع، مُشيرًا إلى "عدد الأشخاص الذين لن تشعر بالحرج من الانضمام إليهم لتناول مشروب دون دعوة إذا صادفتهم في حانة". وتتراوح التقديرات العامة لهذا الرقم بين 100 و250.
 
-Like stable relationships between individuals, a developer's relationship with a codebase takes effort to maintain. When faced with large complicated projects, or ownership of many projects, we lean on convention, policy, and modeled procedure to scale. Dunbar's number is not only important to keep in mind as an office grows, but also when setting the scope for team efforts or deciding when a system should invest in tooling to assist in modeling and automating logistical overhead. Putting the number into an engineering context, it is the number of projects (or normalized complexity of a single project) for which you would feel confident in joining an on-call rotation to support.
+كما هو الحال في العلاقات المستقرة بين الأفراد، تتطلب علاقة المطور بقاعدة البيانات جهدًا للحفاظ عليها. فعند مواجهة مشاريع ضخمة ومعقدة، أو عند تولي مسؤولية العديد من المشاريع، نعتمد على الأعراف والسياسات والإجراءات النموذجية للتوسع. لا يقتصر أهمية رقم دنبار على مراعاته مع نمو المكتب فحسب، بل يشمل أيضًا تحديد نطاق جهود الفريق أو تحديد الوقت المناسب لاستثمار النظام في أدوات تساعد في نمذجة وأتمتة النفقات اللوجستية. وبالنظر إلى هذا الرقم في سياق هندسي، فهو يمثل عدد المشاريع (أو التعقيد المعياري لمشروع واحد) التي تشعر بالثقة في الانضمام إلى نظام المناوبة لدعمها.
 
 انظر أيضاً:
 
-- [Conway's Law](#conways-law)
+- [قانون كونواي](#conways-law)
 
-### The Dunning-Kruger Effect
+### تأثير دانينغ-كروجر
 
-[The Dunning-Kruger Effect on Wikipedia](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+[تأثير دانينغ-كروجر على ويكيبيديا](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 
-> If you're incompetent, you can't know you're incompetent... The skills you need to produce a right answer are exactly the skills you need to recognize what a right answer is.
+> إذا كنت غير كفؤ، فلن تعرف أنك غير كفؤ... إن المهارات التي تحتاجها لإنتاج إجابة صحيحة هي بالضبط المهارات التي تحتاجها للتعرف على ماهية الإجابة الصحيحة.
 >
-> ([David Dunning](https://en.wikipedia.org/wiki/David_Dunning))
+> ( [ديفيد دانينغ](https://en.wikipedia.org/wiki/David_Dunning) )
 
-The Dunning–Kruger effect is a theoretical cognitive bias which was described by David Dunning and Justin Kruger in a 1999 psychological study and paper. The study suggests that people with a low level of ability at a task are likely to overestimate their ability of the task. The proposed reason for this bias is that a sufficient *awareness* of the complexity of a problem or domain is required for a person to be able to make an informed opinion of their capability to work in that domain.
+يُعدّ تأثير دانينغ-كروجر انحيازًا معرفيًا نظريًا وصفه ديفيد دانينغ وجاستن كروجر في دراسة وبحث نفسيين نُشرا عام ١٩٩٩. تشير الدراسة إلى أن الأشخاص ذوي القدرة المنخفضة على أداء مهمة ما يميلون إلى المبالغة في تقدير قدرتهم على إنجازها. والسبب المُقترح لهذا الانحياز هو أن *إدراكًا* كافيًا لتعقيد المشكلة أو المجال يتطلب من الشخص تكوين رأي مستنير حول قدرته على العمل في ذلك المجال.
 
-The Dunning-Kruger effect has sometimes been used to describe a related, but not necessarily implied effect which could be described as "The less a person understands a domain, the more they are likely to believe they can easily solve problems in that domain, as they are more likely to see the domain as *simple*". This more general effect is highly relevant in technology. It would suggest that people who are less familiar with a domain, such as non-technical team members or less experienced team members, are more likely to *underestimate* the effort required to solve a problem in this space.
+يُستخدم تأثير دانينغ-كروجر أحيانًا لوصف تأثير ذي صلة، وإن لم يكن بالضرورة ضمنيًا، يُمكن وصفه بأنه: "كلما قلّ فهم الشخص لمجالٍ ما، زاد احتمال اعتقاده بقدرته على حلّ المشكلات في ذلك المجال بسهولة، لأنه يميل إلى اعتباره *بسيطًا* ". هذا التأثير الأعمّ ذو أهمية بالغة في مجال التكنولوجيا. فهو يُشير إلى أن الأشخاص الأقلّ درايةً بمجالٍ ما، كأعضاء الفريق غير التقنيين أو الأقلّ خبرةً، يُرجّح أن *يُقلّلوا من شأن* الجهد المطلوب لحلّ مشكلةٍ في هذا المجال.
 
-As a person's understanding and experience in a domain grows, they may well encounter another effect, which is that they tend to *overestimate* the ability of *others* or *underestimate* their own ability, as they are have become so experienced in the domain. In all cases these effects are *cognitive biases*. As with any bias, an understanding that it may be present will often be sufficient to help avoid the challenges — as when there is awareness of a bias, more inputs and opinions can be included to attempt to eliminate these biases. A closely related bias is that of [Illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority).
+مع ازدياد فهم الشخص وخبرته في مجالٍ ما، قد يواجه أثرًا آخر، وهو ميله إلى *المبالغة في تقدير* قدرات *الآخرين* أو *التقليل من* شأن قدراته، نظرًا لاكتسابه خبرةً واسعةً في ذلك المجال. في جميع الأحوال، تُعدّ هذه الآثار *انحيازات معرفية* . وكما هو الحال مع أي انحياز، فإنّ إدراك وجوده غالبًا ما يكون كافيًا لتجنّب التحديات، إذ يُتيح الوعي بالانحياز إمكانية إضافة المزيد من المدخلات والآراء لمحاولة التخلص منه. ومن الانحيازات وثيقة الصلة، انحياز [التفوق الوهمي](https://en.wikipedia.org/wiki/Illusory_superiority) .
 
 أمثلة من الواقع:
 
-### Fitts' Law
+### قانون فيتس
 
-[Fitts' Law on Wikipedia](https://en.wikipedia.org/wiki/Fitts%27s_law)
+[قانون فيتس على ويكيبيديا](https://en.wikipedia.org/wiki/Fitts%27s_law)
 
-Fitts' law predicts that the time required to move to a target area is a function of the distance to the target divided by the width of the target.
+يتنبأ قانون فيتس بأن الوقت اللازم للانتقال إلى منطقة الهدف هو دالة للمسافة إلى الهدف مقسومة على عرض الهدف.
 
 
-<img width="300px" alt="Diagram: Fitts Law" src="./images/Fitts_Law.svg">
+<img width="300px" alt="رسم بياني: قانون فيتس" src="./images/Fitts_Law.svg">
 
-The consequences of this law dictate that when designing UX or UI, interactive elements should be as large as possible and the distance between the users attention area and interactive element should be as small as possible. This has consequences on design, such as grouping tasks that are commonly used with one another close.
+تُملي نتائج هذا القانون أنه عند تصميم تجربة المستخدم أو واجهة المستخدم، يجب أن تكون العناصر التفاعلية بأكبر حجم ممكن، وأن تكون المسافة بين منطقة انتباه المستخدم والعنصر التفاعلي بأصغر مسافة ممكنة. ويترتب على ذلك آثار على التصميم، مثل تجميع المهام الشائعة الاستخدام معًا بالقرب من بعضها.
 
-It also formalises the concept of 'magic corners', the corners of the screen to which a user can 'sweep' their mouse to easily hit - which is where key UI elements can be placed. The Windows Start button is in a magic corner, making it easy to select, and as an interesting contrast, the MacOS 'close window' button is *not* in a magic corner, making it hard to hit by mistake.
-
-انظر أيضاً:
-
-- [The information capacity of the human motor system in controlling the amplitude of movement.](https://www.semanticscholar.org/paper/The-information-capacity-of-the-human-motor-system-Fitts/634c9fde5f1c411e4487658ac738dcf18d98ea8d)
-
-### Gall's Law
-
-[Gall's Law on Wikipedia](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)
-
-> A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
->
-> ([John Gall](https://en.wikipedia.org/wiki/John_Gall_(author)))
-
-Gall's Law implies that attempts to *design* highly complex systems are likely to fail. Highly complex systems are rarely built in one go, but evolve instead from more simple systems.
-
-The classic example is the world-wide-web. In its current state, it is a highly complex system. However, it was defined initially as a simple way to share content between academic institutions. It was very successful in meeting these goals and evolved to become more complex over time.
+كما يُرسّخ هذا المفهوم فكرة "الزوايا السحرية"، وهي زوايا الشاشة التي يُمكن للمستخدم تحريك مؤشر الفأرة إليها للوصول إليها بسهولة، حيث يُمكن وضع عناصر واجهة المستخدم الرئيسية. يقع زر "ابدأ" في نظام ويندوز في إحدى هذه الزوايا، مما يُسهّل تحديده، وعلى النقيض من ذلك، *لا* يقع زر "إغلاق النافذة" في نظام ماك أو إس في زاوية سحرية، مما يجعل الضغط عليه عن طريق الخطأ أمرًا صعبًا.
 
 انظر أيضاً:
 
-- [KISS (Keep It Simple, Stupid)](#the-kiss-principle)
+- [القدرة المعلوماتية للجهاز الحركي البشري في التحكم في سعة الحركة.](https://www.semanticscholar.org/paper/The-information-capacity-of-the-human-motor-system-Fitts/634c9fde5f1c411e4487658ac738dcf18d98ea8d)
 
-### Goodhart's Law
+### قانون غال
 
-[The Goodhart's Law on Wikipedia](https://en.wikipedia.org/wiki/Goodhart's_law)
+[قانون غال على ويكيبيديا](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)
 
-> Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+> غالباً ما يُكتشف أن النظام المعقد الناجح قد تطور من نظام بسيط ناجح. أما النظام المعقد المصمم من الصفر فلا ينجح أبداً، ولا يمكن إصلاحه. بل يجب البدء من جديد بنظام بسيط ناجح.
 >
-> *Charles Goodhart*
+> ( [جون غال](https://en.wikipedia.org/wiki/John_Gall_(author)) )
 
-Also commonly referenced as:
+ينص قانون غال على أن محاولات *تصميم* أنظمة بالغة التعقيد غالباً ما تفشل. ونادراً ما تُبنى هذه الأنظمة دفعة واحدة، بل تتطور من أنظمة أبسط.
 
-> When a measure becomes a target, it ceases to be a good measure.
+يُعدّ الإنترنت مثالاً كلاسيكياً على ذلك. فهو في وضعه الحالي نظام بالغ التعقيد، إلا أنه صُمّم في البداية كوسيلة بسيطة لتبادل المحتوى بين المؤسسات الأكاديمية. وقد حقق نجاحاً باهراً في تحقيق هذه الأهداف، ثم تطور ليصبح أكثر تعقيداً مع مرور الوقت.
+
+انظر أيضاً:
+
+- [KISS (اجعل الأمر بسيطًا يا غبي)](#the-kiss-principle)
+
+### قانون جود هارت
+
+[قانون جودهارت ويكيبيديا](https://en.wikipedia.org/wiki/Goodhart's_law)
+
+> أي انتظام إحصائي ملحوظ سيميل إلى الانهيار بمجرد الضغط عليه لأغراض التحكم.
 >
-> *Marilyn Strathern*
+> *تشارلز جود هارت*
 
-The law states that the measure-driven optimizations could lead to devaluation of the measurement outcome itself. Overly selective set of measures ([KPIs](https://en.wikipedia.org/wiki/Performance_indicator)) blindly applied to a process results in distorted effect. People tend to optimize locally by "gaming" the system in order to satisfy particular metrics instead of paying attention to holistic outcome of their actions.
+ويُشار إليه أيضاً باسم:
+
+> عندما يصبح المقياس هدفاً، فإنه يتوقف عن كونه مقياساً جيداً.
+>
+> *مارلين ستراثيرن*
+
+ينص القانون على أن التحسينات القائمة على المقاييس قد تؤدي إلى التقليل من قيمة نتائج القياس نفسها. إن تطبيق مجموعة انتقائية للغاية من المقاييس ( [مؤشرات الأداء الرئيسية](https://en.wikipedia.org/wiki/Performance_indicator) ) بشكل أعمى على عملية ما ينتج عنه تأثير مشوه. يميل الأفراد إلى التحسين الموضعي من خلال التلاعب بالنظام لتحقيق مقاييس محددة بدلاً من الاهتمام بالنتيجة الشاملة لأفعالهم.
 
 أمثلة من الواقع:
 
-- Assert-free tests satisfy the code coverage expectation, despite the fact that the metric intent was to create well-tested software.
-- Developer performance score indicated by the number of lines committed leads to unjustifiably bloated codebase.
+- تُلبي الاختبارات الخالية من التأكيدات توقعات تغطية التعليمات البرمجية، على الرغم من حقيقة أن الهدف من المقياس كان إنشاء برامج تم اختبارها جيدًا.
+- يؤدي تقييم أداء المطور، الذي يُقاس بعدد الأسطر الملتزمة، إلى تضخم غير مبرر في قاعدة التعليمات البرمجية.
 
 انظر أيضاً:
 
-- [Goodhart’s Law: How Measuring The Wrong Things Drive Immoral Behaviour](https://coffeeandjunk.com/goodharts-campbells-law/)
-- [Dilbert on bug-free software](https://dilbert.com/strip/1995-11-13)
+- [قانون جودهارت: كيف يؤدي قياس الأشياء الخاطئة إلى سلوك غير أخلاقي](https://coffeeandjunk.com/goodharts-campbells-law/)
+- [ديلبرت يتحدث عن البرامج الخالية من الأخطاء](https://dilbert.com/strip/1995-11-13)
 
-### Hanlon's Razor
+### شفرة هانلون
 
-[Hanlon's Razor on Wikipedia](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+[مبدأ هانلون على ويكيبيديا](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
-> Never attribute to malice that which is adequately explained by stupidity.
+> لا تنسب إلى الخبث ما يمكن تفسيره بالغباء.
 >
-> Robert J. Hanlon
+> روبرت ج. هانلون
 
-This principle suggests that actions resulting in a negative outcome were not a result of ill will. Instead the negative outcome is more likely attributed to those actions and/or the impact being not fully understood.
+يشير هذا المبدأ إلى أن الأفعال التي أسفرت عن نتائج سلبية لم تكن نتيجة لسوء نية، بل يُعزى ذلك على الأرجح إلى تلك الأفعال و/أو عدم فهم تأثيرها بشكل كامل.
 
-### Hick's Law (Hick-Hyman Law)
+### قانون هيك (قانون هيك-هايمان)
 
-[Hick's law on Wikipedia](https://en.wikipedia.org/wiki/Hick%27s_law)
+[قانون هيك على ويكيبيديا](https://en.wikipedia.org/wiki/Hick%27s_law)
 
-> Decision time grows logarithmically with the number of options you can choose from.
+> يزداد وقت اتخاذ القرار بشكل لوغاريتمي مع عدد الخيارات المتاحة للاختيار من بينها.
 >
-> William Edmund Hick and Ray Hyman
+> ويليام إدموند هيك وراي هايمان
 
-In the equation below, `T` is the time to make a decision, `n` is the number of options, and `b` is a constant which is determined by analysis of the data.
+في المعادلة أدناه، `T` هو الوقت اللازم لاتخاذ القرار، `n` هو عدد الخيارات، و `b` هو ثابت يتم تحديده من خلال تحليل البيانات.
 
-![Hicks law](./images/hicks_law.svg)
+![قانون هيكس](./images/hicks_law.svg)
 
-This law only applies when the number of options is *ordered*, for example, alphabetically. This is implied in the base two logarithm - which implies the decision maker is essentially performing a *binary search*. If the options are not well ordered, experiments show the time taken is linear.
+لا ينطبق هذا القانون إلا عندما يكون عدد الخيارات *مُرتبًا* ، أبجديًا على سبيل المثال. وهذا ما يُفهم ضمنيًا من اللوغاريتم ذي الأساس 2، والذي يعني أن متخذ القرار يُجري في جوهره *بحثًا ثنائيًا* . أما إذا لم تكن الخيارات مُرتبة ترتيبًا جيدًا، فقد أظهرت التجارب أن الوقت المُستغرق يكون خطيًا.
 
-This is has significant impact in UI design; ensuring that users can easily search through options leads to faster decision making.
+وهذا له تأثير كبير في تصميم واجهة المستخدم؛ فضمان قدرة المستخدمين على البحث بسهولة بين الخيارات يؤدي إلى اتخاذ قرارات أسرع.
 
-A correlation has also been shown in Hick's Law between IQ and reaction time as shown in [Speed of Information Processing: Developmental Change and Links to Intelligence](https://www.sciencedirect.com/science/article/pii/S0022440599000369).
+كما تم إثبات وجود علاقة في قانون هيك بين معدل الذكاء ووقت رد الفعل كما هو موضح في [سرعة معالجة المعلومات: التغير النمائي والروابط بالذكاء](https://www.sciencedirect.com/science/article/pii/S0022440599000369) .
 
 انظر أيضاً:
 
-- [Fitts's Law](#fitts-law)
+- [قانون فيتس](#fitts-law)
 
 ### <a>قانون هوفستاتر</a>
 
-[Hofstadter's Law on Wikipedia](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
+[قانون هوفستاتر على ويكيبيديا](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
 
-> It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> يستغرق الأمر دائمًا وقتًا أطول مما تتوقع، حتى عندما تأخذ قانون هوفستاتر في الاعتبار.
 >
-> (Douglas Hofstadter)
+> (دوغلاس هوفستاتر)
 
-You might hear this law referred to when looking at estimates for how long something will take. It seems a truism in software development that we tend to not be very good at accurately estimating how long something will take to deliver.
+قد تسمع الإشارة إلى هذا القانون عند النظر في تقديرات المدة الزمنية اللازمة لإنجاز أمر ما. ويبدو من المسلّمات في مجال تطوير البرمجيات أننا لا نجيد عادةً تقدير المدة الزمنية اللازمة لتسليم أي مشروع بدقة.
 
-This is from the book '[Gödel, Escher, Bach: An Eternal Golden Braid](#reading-list)'.
+هذا مقتبس من كتاب " [غودل، إيشر، باخ: ضفيرة ذهبية أبدية](#reading-list) ".
 
 انظر أيضاً:
 
-- [Reading List: Gödel, Escher, Bach: An Eternal Golden Braid](#reading-list)
+- [قائمة القراءة: غودل، إيشر، باخ: ضفيرة ذهبية أبدية](#reading-list)
 
-### Hutber's Law
+### قانون هوتبر
 
-[Hutber's Law on Wikipedia](https://en.wikipedia.org/wiki/Hutber%27s_law)
+[قانون هوتبر على ويكيبيديا](https://en.wikipedia.org/wiki/Hutber%27s_law)
 
-> Improvement means deterioration.
+> التحسن يعني التدهور.
 >
-> ([Patrick Hutber](https://en.wikipedia.org/wiki/Patrick_Hutber))
+> ( [باتريك هتبر](https://en.wikipedia.org/wiki/Patrick_Hutber) )
 
-This law suggests that improvements to a system will lead to deterioration in other parts, or it will hide other deterioration, leading overall to a degradation from the current state of the system.
+يشير هذا القانون إلى أن التحسينات التي تطرأ على النظام ستؤدي إلى تدهور في أجزاء أخرى، أو أنها ستخفي تدهورًا آخر، مما يؤدي في المجمل إلى تدهور عن الحالة الحالية للنظام.
 
-For example, a decrease in response latency for a particular end-point could cause increased throughput and capacity issues further along in a request flow, affecting an entirely different sub-system.
+على سبيل المثال، قد يؤدي انخفاض زمن الاستجابة لنقطة نهاية معينة إلى زيادة الإنتاجية ومشاكل السعة في مراحل لاحقة من تدفق الطلب، مما يؤثر على نظام فرعي مختلف تمامًا.
 
-### The Hype Cycle &amp; Amara's Law
+### دورة الضجيج وقانون أمارا
 
-[The Hype Cycle on Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle)
+[دورة الضجيج الإعلامي على ويكيبيديا](https://en.wikipedia.org/wiki/Hype_cycle)
 
-> We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+> نميل إلى المبالغة في تقدير تأثير التكنولوجيا على المدى القصير والتقليل من شأن تأثيرها على المدى الطويل.
 >
-> (Roy Amara)
+> (روي أمارا)
 
-The Hype Cycle is a visual representation of the excitement and development of technology over time, originally produced by Gartner. It is best shown with a visual:
+دورة الضجيج هي تمثيل مرئي لحماس وتطور التكنولوجيا عبر الزمن، وقد أنتجتها شركة غارتنر في الأصل. ويُفضل عرضها بصريًا من خلال:
 
-![The Hype Cycle](./images/gartner_hype_cycle.png)
+![دورة الضجيج](./images/gartner_hype_cycle.png)
 
-In short, this cycle suggests that there is typically a burst of excitement around new technology and its potential impact. Teams often jump into these technologies quickly, and sometimes find themselves disappointed with the results. This might be because the technology is not yet mature enough, or real-world applications are not yet fully realised. After a certain amount of time, the capabilities of the technology increase and practical opportunities to use it increase, and teams can finally become productive. Roy Amara's quote sums this up most succinctly - "We tend to overestimate the effect of a technology in the short run and underestimate in the long run".
+باختصار، تشير هذه الدورة إلى وجود حماس كبير عادةً تجاه التكنولوجيا الجديدة وتأثيرها المحتمل. غالبًا ما تندفع الفرق إلى تبني هذه التقنيات بسرعة، وقد تجد نفسها أحيانًا محبطة من النتائج. قد يعود ذلك إلى أن التكنولوجيا لم تنضج بعد، أو أن تطبيقاتها العملية لم تكتمل بعد. بعد فترة من الزمن، تتطور إمكانيات التكنولوجيا وتزداد فرص استخدامها عمليًا، وتصبح الفرق قادرة أخيرًا على تحقيق الإنتاجية. يلخص قول روي أمارا هذا الأمر بإيجاز شديد: "نميل إلى المبالغة في تقدير تأثير التكنولوجيا على المدى القصير، والتقليل من شأنها على المدى الطويل".
 
-### Hyrum's Law (The Law of Implicit Interfaces)
+### قانون هيروم (قانون الواجهات الضمنية)
 
-[Hyrum's Law Online](http://www.hyrumslaw.com/)
+[قانون هايروم على الإنترنت](http://www.hyrumslaw.com/)
 
-> With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviours of your system will be depended on by somebody.
+> مع وجود عدد كافٍ من مستخدمي واجهة برمجة التطبيقات (API)، لا يهم ما تعد به في العقد: فجميع السلوكيات القابلة للملاحظة لنظامك سيعتمد عليها شخص ما.
 >
-> (Hyrum Wright)
+> (هايروم رايت)
 
 انظر أيضاً:
 
-- [The Law of Leaky Abstractions](#the-law-of-leaky-abstractions)
+- [قانون التجريدات المتسربة](#the-law-of-leaky-abstractions)
 - [XKCD 1172](https://xkcd.com/1172/)
 
-### Jevons' Paradox
+### مفارقة جيفونز
 
-[Jevons' Paradox on Wikipedia](https://en.wikipedia.org/wiki/Jevons_paradox)
+[مفارقة جيفونز على ويكيبيديا](https://en.wikipedia.org/wiki/Jevons_paradox)
 
-> It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption. The very contrary is the truth.
+> إن افتراض أن الاستخدام الاقتصادي للوقود يعادل انخفاض الاستهلاك هو محض خلط للأفكار. بل إن الحقيقة هي عكس ذلك تماماً.
 >
-> *William Stanley Jevons (1865)*
+> *ويليام ستانلي جيفونز (1865)*
 
-Named after economist William Stanley Jevons, who observed in 1865 that improvements in coal-burning engine efficiency led to *increased* coal consumption, not decreased. More efficient engines made coal economically attractive for more applications, driving overall demand higher.
+سُميت نسبةً إلى الخبير الاقتصادي ويليام ستانلي جيفونز، الذي لاحظ في عام 1865 أن تحسين كفاءة محركات حرق الفحم أدى إلى *زيادة* استهلاك الفحم، وليس انخفاضه. وقد جعلت المحركات الأكثر كفاءة الفحم جذابًا اقتصاديًا لمزيد من التطبيقات، مما أدى إلى زيادة الطلب الإجمالي.
 
-In software and technology:
+في مجال البرمجيات والتكنولوجيا:
 
-- Faster CPUs enable more resource-intensive software
-- Better compression algorithms lead to larger files being shipped
-- Faster networks result in heavier web pages
+- تتيح وحدات المعالجة المركزية الأسرع برامج أكثر كثافة في استخدام الموارد
+- تؤدي خوارزميات الضغط المحسّنة إلى شحن ملفات أكبر حجماً.
+- تؤدي الشبكات الأسرع إلى صفحات ويب أثقل حجمًا.
 
-The paradox suggests efficiency gains don't reduce resource usage, but in fact can lead in time to increased consumption. [Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law) and [Andy and Bill's Law](https://en.wikipedia.org/wiki/Andy_and_Bill%27s_law) are also examples of Jevon's Paradox applied to computing.
-
-انظر أيضاً:
-
-- [Moore's Law](#moores-law)
-- [Koomey's Law](#koomeys-law)
-
-### Input-Process-Output (IPO)
-
-[Input–Process–Output on Wikipedia](https://en.wikipedia.org/wiki/IPO_model)
-
-Systems can be incredibly complex, but can typically be broken down into smaller parts that follow a simple pattern:
-
-1. Input is provided
-2. Some kind of processing or transformation is performed
-3. Output is returned
-
-A sort function in a programming language or system could be a classic example of the IPO pattern; where arbitrary input is sorted based on a predicate and returned back. A web server could be modelled as an IPO system, where HTTP requests are transformed into HTTP responses. A highly complex Generative AI system could likewise be modelled in this way, with user input being passed through a complex model and a response being generated.
-
-The IPO pattern is present in different forms across almost all technological domains, from [functional programming](https://en.wikipedia.org/wiki/Functional_programming) languages that explicitly follow IPO patterns to [The Unix Philosophy](#the-unix-philosophy), which suggests that highly complex systems can be built by chaining together many simple IPO programs.
+تشير المفارقة إلى أن تحسين الكفاءة لا يقلل من استخدام الموارد، بل قد يؤدي في الواقع إلى زيادة الاستهلاك مع مرور الوقت. ويُعد [قانون ويرث](https://en.wikipedia.org/wiki/Wirth%27s_law) وقانون [آندي وبيل](https://en.wikipedia.org/wiki/Andy_and_Bill%27s_law) مثالين آخرين على تطبيق مفارقة جيفونز في مجال الحوسبة.
 
 انظر أيضاً:
 
-- [The Unix Philosophy](#the-unix-philosophy)
+- [قانون مور](#moores-law)
+- [قانون كومي](#koomeys-law)
 
-### Kernighan's Law
+### المدخلات - المعالجة - المخرجات (IPO)
 
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+[المدخلات - المعالجة - المخرجات على ويكيبيديا](https://en.wikipedia.org/wiki/IPO_model)
+
+قد تكون الأنظمة معقدة للغاية، ولكن يمكن عادةً تقسيمها إلى أجزاء أصغر تتبع نمطًا بسيطًا:
+
+1. يتم تقديم المدخلات
+2. يتم إجراء نوع من المعالجة أو التحويل
+3. يتم إرجاع الناتج
+
+تُعدّ دالة الفرز في لغة برمجة أو نظام مثالًا كلاسيكيًا لنمط IPO؛ حيث يتم فرز المدخلات العشوائية بناءً على شرط معين ثم إعادتها. ويمكن نمذجة خادم الويب كنظام IPO، حيث تُحوّل طلبات HTTP إلى استجابات HTTP. وبالمثل، يمكن نمذجة نظام الذكاء الاصطناعي التوليدي شديد التعقيد بهذه الطريقة، حيث تُمرّر مدخلات المستخدم عبر نموذج معقد ويتم توليد استجابة.
+
+يوجد نمط IPO بأشكال مختلفة في جميع المجالات التكنولوجية تقريبًا، بدءًا من لغات [البرمجة الوظيفية](https://en.wikipedia.org/wiki/Functional_programming) التي تتبع أنماط IPO بشكل صريح وصولًا إلى [فلسفة يونكس](#the-unix-philosophy) ، التي تشير إلى أنه يمكن بناء أنظمة معقدة للغاية عن طريق ربط العديد من برامج IPO البسيطة معًا.
+
+انظر أيضاً:
+
+- [فلسفة يونكس](#the-unix-philosophy)
+
+### قانون كيرنيغان
+
+> يُعدّ تصحيح الأخطاء أصعب بمرتين من كتابة الكود في المقام الأول. لذا، إذا كتبت الكود بأقصى قدر من الذكاء، فأنت، بحكم التعريف، لست ذكيًا بما يكفي لتصحيح أخطائه.
 >
-> (Brian Kernighan)
+> (برايان كيرنيغان)
 
-Kernighan's Law is named for [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and derived from a quote from Kernighan and Plauger's book [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style):
+قانون كيرنيغان سمي على اسم [برايان كيرنيغان](https://en.wikipedia.org/wiki/Brian_Kernighan) وهو مستمد من اقتباس من كتاب كيرنيغان وبلوغر [بعنوان "عناصر أسلوب البرمجة"](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style) :
 
-> Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?
+> يعلم الجميع أن تصحيح الأخطاء أصعب بمرتين من كتابة البرنامج في المقام الأول. لذا، إذا كنتَ بارعًا قدر الإمكان عند كتابة البرنامج، فكيف ستتمكن من تصحيح أخطائه؟
 
-While hyperbolic, Kernighan's Law makes the argument that simple code is to be preferred over complex code, because debugging any issues that arise in complex code may be costly or even infeasible.
+على الرغم من أن قانون كيرنيغان مبالغ فيه، إلا أنه يطرح الحجة القائلة بأن الكود البسيط يفضل على الكود المعقد، لأن تصحيح أي مشكلات تنشأ في الكود المعقد قد يكون مكلفًا أو حتى غير ممكن.
 
 انظر أيضاً:
 
-- [The KISS Principle](#the-kiss-principle)
-- [The Unix Philosophy](#the-unix-philosophy)
-- [Occam's Razor](#occams-razor)
+- [مبدأ البساطة](#the-kiss-principle)
+- [فلسفة يونكس](#the-unix-philosophy)
+- [مبدأ أوكام](#occams-razor)
 
-### Koomey's Law
+### قانون كومي
 
-[Koomey's Law on Wikipedia](https://en.wikipedia.org/wiki/Koomey%27s_law)
+[قانون كومي على ويكيبيديا](https://en.wikipedia.org/wiki/Koomey%27s_law)
 
-> ...at a fixed computing load, the amount of battery you need will fall by a factor of two every year and a half.
+> ...عند حمل حاسوبي ثابت، ستنخفض كمية البطارية التي تحتاجها بمقدار الضعف كل عام ونصف.
 >
-> (Jonathan Koomey)
+> (جوناثان كومي)
 
-In 2010 Professor Jonathan Koomey discovered that the trend in number of computations per joule of energy dissipated had been remarkably stable. This trend became known as Koomey's Law - that the amount of battery needed for a given computing load would half each 2.5 years.
+في عام 2010، اكتشف البروفيسور جوناثان كومي أن اتجاه عدد العمليات الحسابية لكل جول من الطاقة المستهلكة كان مستقرًا بشكل ملحوظ. عُرف هذا الاتجاه بقانون كومي، الذي ينص على أن كمية البطارية اللازمة لحمل حسابي معين تنخفض إلى النصف كل سنتين ونصف.
 
-Koomey performed a follow-up analysis in 2010 and found that this trend had slowed, similar to how [Moore's Law](#moores-law) had slowed. This seemed to be related to limitations around how small transistors can be made, as well as [Dennard Scaling](https://en.wikipedia.org/wiki/Dennard_scaling).
+أجرى كومي تحليلاً لاحقاً في عام 2010، ووجد أن هذا الاتجاه قد تباطأ، على غرار تباطؤ [قانون مور](#moores-law) . ويبدو أن هذا مرتبط بالقيود المفروضة على كيفية تصنيع الترانزستورات الصغيرة، بالإضافة إلى [تأثير دينارد](https://en.wikipedia.org/wiki/Dennard_scaling) .
 
 انظر أيضاً:
 
-- [Moore's Law](#moores-law)
-- [Dennard Scaling](https://en.wikipedia.org/wiki/Dennard_scaling)
+- [قانون مور](#moores-law)
+- [مقياس دينارد](https://en.wikipedia.org/wiki/Dennard_scaling)
 
-### Linus's Law
+### قانون لينوس
 
-[Linus's Law on Wikipedia](https://en.wikipedia.org/wiki/Linus%27s_law)
+[قانون لينوس على ويكيبيديا](https://en.wikipedia.org/wiki/Linus%27s_law)
 
 > إذا توفرت أعداد كافية من العيون، فإن جميع الثغرات سطحية.
 >
-> *Eric S. Raymond*
+> *إريك س. ريموند*
 
-This law simply states that the more people who can see a problem, the higher the likelihood that someone will have seen and solved the problem before, or something very similar.
+ينص هذا القانون ببساطة على أنه كلما زاد عدد الأشخاص الذين يمكنهم رؤية مشكلة ما، زادت احتمالية أن يكون شخص ما قد رأى المشكلة وحلها من قبل، أو شيء مشابه جدًا.
 
-Although it was originally used to describe the value of open-source models for projects it can be accepted for any kind of software project. It can also be extended to processes - more code reviews, more static analysis and multi-disciplined test processes will make the problems more visible and easy to identify.
+على الرغم من أن هذا المصطلح استُخدم في الأصل لوصف قيمة نماذج المصادر المفتوحة للمشاريع، إلا أنه يُمكن تطبيقه على أي نوع من مشاريع البرمجيات. كما يُمكن توسيعه ليشمل العمليات - فزيادة مراجعات الكود، والتحليل الثابت، وعمليات الاختبار متعددة التخصصات ستجعل المشكلات أكثر وضوحًا وأسهل في تحديدها.
 
-A more formal statement can be:
+ويمكن صياغة بيان أكثر رسمية على النحو التالي:
 
-> Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and can be solved by someone who has encountered a similar problem before.
+> إذا توفرت قاعدة كبيرة بما يكفي من مختبري النسخة التجريبية والمطورين المشاركين، فسيتم تحديد كل مشكلة تقريبًا بسرعة ويمكن حلها بواسطة شخص واجه مشكلة مماثلة من قبل.
 
-This law was named in honour of [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in Eric S. Raymond's book "[The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)".
+وقد سُمي هذا القانون تكريماً [للينوس تورفالدز](https://en.wikipedia.org/wiki/Linus_Torvalds) في كتاب إريك إس. ريموند " [الكاتدرائية والبازار](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) ".
 
-### Metcalfe's Law
+### قانون ميتكالف
 
-[Metcalfe's Law on Wikipedia](https://en.wikipedia.org/wiki/Metcalfe's_law)
+[قانون ميتكالف على ويكيبيديا](https://en.wikipedia.org/wiki/Metcalfe's_law)
 
-> In network theory, the value of a system grows as approximately the square of the number of users of the system.
+> في نظرية الشبكات، تنمو قيمة النظام تقريبًا بمربع عدد مستخدمي النظام.
 
-This law is based on the number of possible pairwise connections within a system and is closely related to [Reed's Law](#reeds-law). Odlyzko and others have argued that both Reed's Law and Metcalfe's Law overstate the value of the system by not accounting for the limits of human cognition on network effects; see [Dunbar's Number](#dunbars-number).
-
-انظر أيضاً:
-
-- [Reed's Law](#reeds-law)
-- [Dunbar's Number](#dunbars-number)
-
-### Moore's Law
-
-[Moore's Law on Wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law)
-
-> The number of transistors in an integrated circuit doubles approximately every two years.
-
-Often used to illustrate the sheer speed at which semiconductor and chip technology has improved, Moore's prediction has proven to be highly accurate over from the 1970s to the late 2000s. In more recent years, the trend has changed slightly, partly due to [physical limitations on the degree to which components can be miniaturised](https://en.wikipedia.org/wiki/Quantum_tunnelling). However, advancements in parallelisation, and potentially revolutionary changes in semiconductor technology and quantum computing may mean that Moore's Law could continue to hold true for decades to come.
+يستند هذا القانون إلى عدد الروابط الثنائية الممكنة داخل النظام، ويرتبط ارتباطًا وثيقًا [بقانون ريد](#reeds-law) . وقد جادل أودليزكو وآخرون بأن كلاً من قانون ريد وقانون ميتكالف يبالغان في تقدير قيمة النظام لعدم مراعاتهما حدود الإدراك البشري لتأثيرات الشبكة؛ انظر [عدد دنبار](#dunbars-number) .
 
 انظر أيضاً:
 
-- [Koomey's Law](#koomeys-law)
+- [قانون ريد](#reeds-law)
+- [رقم دنبار](#dunbars-number)
 
-### Murphy's Law / Sod's Law
+### قانون مور
 
-[Murphy's Law on Wikipedia](https://en.wikipedia.org/wiki/Murphy%27s_law)
+[قانون مور على ويكيبيديا](https://en.wikipedia.org/wiki/Moore%27s_law)
 
-> Anything that can go wrong will go wrong.
+> يتضاعف عدد الترانزستورات في الدائرة المتكاملة تقريبًا كل عامين.
 
-Related to [Edward A. Murphy, Jr](https://en.wikipedia.org/wiki/Edward_A._Murphy_Jr.) *Murphy's Law* states that if a thing can go wrong, it will go wrong.
-
-This is a common adage among developers. Sometimes the unexpected happens when developing, testing or even in production. This can also be related to the (more common in British English) *Sod's Law*:
-
-> If something can go wrong, it will, at the worst possible time.
-
-These 'laws' are generally used in a comic sense. However, phenomena such as [*Confirmation Bias*](#TODO) and [*Selection Bias*](#TODO) can lead people to perhaps over-emphasise these laws (the majority of times when things work, they go unnoticed, failures however are more noticeable and draw more discussion).
+كثيراً ما يُستخدم قانون مور لتوضيح السرعة الهائلة التي تطورت بها تكنولوجيا أشباه الموصلات والرقائق، وقد أثبتت تنبؤاته دقتها العالية خلال الفترة من سبعينيات القرن الماضي وحتى أواخر العقد الأول من الألفية الثانية. وفي السنوات الأخيرة، تغير هذا الاتجاه قليلاً، ويعود ذلك جزئياً إلى [القيود الفيزيائية التي تحد من إمكانية تصغير المكونات](https://en.wikipedia.org/wiki/Quantum_tunnelling) . ومع ذلك، فإن التقدم في مجال المعالجة المتوازية، والتغيرات الثورية المحتملة في تكنولوجيا أشباه الموصلات والحوسبة الكمومية، قد تعني أن قانون مور سيظل سارياً لعقود قادمة.
 
 انظر أيضاً:
 
-- [Confirmation Bias](#TODO)
-- [Selection Bias](#TODO)
+- [قانون كومي](#koomeys-law)
 
-### Occam's Razor
+### قانون مورفي / قانون سود
 
-[Occam's Razor on Wikipedia](https://en.wikipedia.org/wiki/Occam's_razor)
+[قانون مورفي على ويكيبيديا](https://en.wikipedia.org/wiki/Murphy%27s_law)
 
-> Entities should not be multiplied without necessity.
+> كل شيء يمكن أن يسوء سيسوء.
+
+فيما يتعلق بقانون [مورفي لإدوارد أ.](https://en.wikipedia.org/wiki/Edward_A._Murphy_Jr.) *مورفي الابن، ينص القانون* على أنه إذا كان من الممكن أن يحدث خطأ ما، فسوف يحدث خطأ ما.
+
+هذا قول مأثور شائع بين المطورين. أحيانًا تحدث أمور غير متوقعة أثناء التطوير أو الاختبار أو حتى في بيئة الإنتاج. ويمكن ربط هذا أيضًا *بقانون سود* (الأكثر شيوعًا في الإنجليزية البريطانية).
+
+> إذا كان من الممكن أن يحدث خطأ ما، فسيحدث ذلك في أسوأ وقت ممكن.
+
+تُستخدم هذه "القوانين" عادةً في سياق فكاهي. ومع ذلك، قد تدفع ظواهر مثل [*تحيز التأكيد*](#TODO) [*وتحيز الاختيار*](#TODO) الناس إلى المبالغة في التركيز على هذه القوانين (ففي أغلب الأحيان، عندما تسير الأمور على ما يرام، تمر دون أن يلاحظها أحد، أما حالات الفشل فتكون أكثر وضوحًا وتثير نقاشًا أوسع).
+
+انظر أيضاً:
+
+- [تحيز التأكيد](#TODO)
+- [تحيز الاختيار](#TODO)
+
+### مبدأ أوكام
+
+[مبدأ أوكام على ويكيبيديا](https://en.wikipedia.org/wiki/Occam's_razor)
+
+> لا ينبغي تكثير الكيانات دون ضرورة.
 >
-> William of Ockham
+> ويليام الأوكامي
 
-Occam's razor says that among several possible solutions, the most likely solution is the one with the least number of concepts and assumptions. This solution is the simplest and solves only the given problem, without introducing accidental complexity and possible negative consequences.
+ينص مبدأ أوكام على أنه من بين الحلول الممكنة، يكون الحل الأكثر ترجيحاً هو الحل الذي يحتوي على أقل عدد من المفاهيم والافتراضات. هذا الحل هو الأبسط، ويحل المشكلة المطروحة فقط، دون إدخال تعقيدات غير مقصودة أو عواقب سلبية محتملة.
 
 انظر أيضاً:
 
-- [YAGNI](#yagni)
-- [No Silver Bullet: Accidental Complexity and Essential Complexity](https://en.wikipedia.org/wiki/No_Silver_Bullet)
+- [ياغني](#yagni)
+- [لا يوجد حل سحري: التعقيد العرضي والتعقيد الجوهري](https://en.wikipedia.org/wiki/No_Silver_Bullet)
 
-Example:
+مثال:
 
-- [Lean Software Development: Eliminate Waste](https://en.wikipedia.org/wiki/Lean_software_development#Eliminate_waste)
+- [تطوير البرمجيات الرشيقة: القضاء على الهدر](https://en.wikipedia.org/wiki/Lean_software_development#Eliminate_waste)
 
-### Parkinson's Law
+### قانون باركنسون
 
-[Parkinson's Law on Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+[قانون باركنسون على ويكيبيديا](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
-> Work expands so as to fill the time available for its completion.
+> يتوسع العمل بحيث يملأ الوقت المتاح لإنجازه.
 
-In its original context, this Law was based on studies of bureaucracies. It may be pessimistically applied to software development initiatives, the theory being that teams will be inefficient until deadlines near, then rush to complete work by the deadline, thus making the actual deadline somewhat arbitrary.
+في سياقها الأصلي، استند هذا القانون إلى دراساتٍ حول البيروقراطيات. ويمكن تطبيقه بنظرةٍ متشائمة على مبادرات تطوير البرمجيات، حيث تقوم النظرية على أن الفرق ستكون غير فعّالة حتى اقتراب المواعيد النهائية، ثم تسارع لإنجاز العمل قبل الموعد النهائي، مما يجعل الموعد النهائي الفعلي تعسفيًا إلى حدٍ ما.
 
 انظر أيضاً:
 
 - [قانون هوفستاتر](#hofstadters-law)
 
-### Premature Optimization Effect
+### تأثير التحسين المبكر
 
-[Premature Optimization on WikiWeb](http://wiki.c2.com/?PrematureOptimization)
+[التحسين المبكر على ويكي ويب](http://wiki.c2.com/?PrematureOptimization)
 
-> Premature optimization is the root of all evil.
+> التحسين المبكر هو أصل كل شر.
 >
-> [(Donald Knuth)](https://twitter.com/realdonaldknuth?lang=en)
+> [(دونالد كنوث)](https://twitter.com/realdonaldknuth?lang=en)
 
-However, *Premature Optimization* can be defined (in less loaded terms) as optimizing before we know that we need to.
+ومع ذلك، يمكن تعريف *التحسين المبكر* (بعبارات أقل تحيزًا) بأنه التحسين قبل أن نعرف أننا بحاجة إلى ذلك.
 
-### Putt's Law
+### قانون بوت
 
-[Putt's Law on Wikipedia](https://en.wikipedia.org/wiki/Putt%27s_Law_and_the_Successful_Technocrat)
+[قانون بوت على ويكيبيديا](https://en.wikipedia.org/wiki/Putt%27s_Law_and_the_Successful_Technocrat)
 
-> Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand.
+> تهيمن على التكنولوجيا نوعان من الناس، أولئك الذين يفهمون ما لا يديرونه وأولئك الذين يديرون ما لا يفهمونه.
 
-Putt's Law is often followed by Putt's Corollary:
+غالباً ما يتبع قانون بوت نتيجة بوت:
 
-> Every technical hierarchy, in time, develops a competence inversion.
+> كل تسلسل هرمي تقني، مع مرور الوقت، يتطور فيه انعكاس في الكفاءات.
 
-These statements suggest that due to various selection criteria and trends in how groups organise, there will be a number of skilled people at working levels of a technical organisations, and a number of people in managerial roles who are not aware of the complexities and challenges of the work they are managing. This can be due to phenomena such as [The Peter Principle](#the-peter-principle) or [The Dilbert Principle](#the-dilbert-principle).
+تشير هذه التصريحات إلى أنه نظرًا لاختلاف معايير الاختيار والاتجاهات في كيفية تنظيم المجموعات، سيكون هناك عدد من الأشخاص ذوي المهارات في المستويات الوظيفية في المؤسسات التقنية، وعدد من الأشخاص في المناصب الإدارية غير مدركين لتعقيدات وتحديات العمل الذي يديرونه. وقد يعود ذلك إلى ظواهر مثل [مبدأ بيتر](#the-peter-principle) أو [مبدأ ديلبرت](#the-dilbert-principle) .
 
-However, it should be stressed that Laws such as this are vast generalisations and may apply to *some* types of organisations, and not apply to others.
+ومع ذلك، ينبغي التأكيد على أن القوانين من هذا القبيل هي تعميمات واسعة النطاق وقد تنطبق على *بعض* أنواع المنظمات، ولا تنطبق على أنواع أخرى.
 
 انظر أيضاً:
 
-- [The Peter Principle](#the-peter-principle)
-- [The Dilbert Principle](#the-dilbert-principle)
+- [مبدأ بيتر](#the-peter-principle)
+- [مبدأ ديلبرت](#the-dilbert-principle)
 
-### Reed's Law
+### قانون ريد
 
-[Reed's Law on Wikipedia](https://en.wikipedia.org/wiki/Reed's_law)
+[قانون ريد على ويكيبيديا](https://en.wikipedia.org/wiki/Reed's_law)
 
-> The utility of large networks, particularly social networks, scales exponentially with the size of the network.
+> تتزايد فائدة الشبكات الكبيرة، وخاصة الشبكات الاجتماعية، بشكل كبير مع حجم الشبكة.
 
-This law is based on graph theory, where the utility scales as the number of possible sub-groups, which is faster than the number of participants or the number of possible pairwise connections. Odlyzko and others have argued that Reed's Law overstates the utility of the system by not accounting for the limits of human cognition on network effects; see [Dunbar's Number](#dunbars-number).
+يستند هذا القانون إلى نظرية الرسوم البيانية، حيث تتناسب الفائدة طرديًا مع عدد المجموعات الفرعية الممكنة، وهو ما يتجاوز عدد المشاركين أو عدد الروابط الثنائية الممكنة. وقد جادل أودليزكو وآخرون بأن قانون ريد يبالغ في تقدير فائدة النظام لعدم مراعاته حدود الإدراك البشري لتأثيرات الشبكة؛ انظر [عدد دنبار](#dunbars-number) .
 
 انظر أيضاً:
 
-- [Metcalfe's Law](#metcalfes-law)
-- [Dunbar's Number](#dunbars-number)
+- [قانون ميتكالف](#metcalfes-law)
+- [رقم دنبار](#dunbars-number)
 
-### The Bitter Lesson
+### الدرس المرير
 
-[The Bitter Lesson by Richard S. Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+[الدرس المرير بقلم ريتشارد س. ساتون](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
-> The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin.
+> إن أهم درس يمكن استخلاصه من 70 عامًا من أبحاث الذكاء الاصطناعي هو أن الأساليب العامة التي تستفيد من الحوسبة هي في النهاية الأكثر فعالية، وبفارق كبير.
 >
-> Richard S. Sutton (2019)
+> ريتشارد س. ساتون (2019)
 
-The "Bitter Lesson", stated by [Rich S. Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton), says that scale (in terms of both data and computational power) has driven the most significant advancements in AI research, rather than the intricacies of the research methods themselves.
+يقول "الدرس المرير"، الذي ذكره [ريتش إس. ساتون](https://en.wikipedia.org/wiki/Richard_S._Sutton) ، إن الحجم (من حيث البيانات وقوة الحوسبة) هو الذي دفع أهم التطورات في أبحاث الذكاء الاصطناعي، بدلاً من تعقيدات أساليب البحث نفسها.
 
-He goes on to suggest that this indicates we should stop trying to build simplified (or even complex) models of the mind as history has shown that these have always in the long term been failures compared to (as an example) scaling the capacity of neural networks and applying existing methods such as convolution.
+ويمضي ليقترح أن هذا يشير إلى أنه ينبغي علينا التوقف عن محاولة بناء نماذج مبسطة (أو حتى معقدة) للعقل، حيث أظهر التاريخ أن هذه النماذج كانت دائماً فاشلة على المدى الطويل مقارنة (على سبيل المثال) بتوسيع قدرة الشبكات العصبية وتطبيق الأساليب الحالية مثل الالتفاف.
 
-### The Ringelmann Effect
+### تأثير رينجلمان
 
-[The Ringelmann effect on Wikipedia](https://en.wikipedia.org/wiki/Ringelmann_effect)
+[تأثير رينجلمان على ويكيبيديا](https://en.wikipedia.org/wiki/Ringelmann_effect)
 
 تُعرف ظاهرة رينجلمان بأنها ميل الفرد إلى انخفاض كفاءته مع ازدياد عدد الأشخاص المشاركين في مهمة ما. بعبارة أخرى، كلما زاد عدد الأفراد في الفريق، انخفض متوسط ​​أداء الفرد. ويُعتقد أن هناك أسبابًا متعددة وراء ذلك، منها فقدان الحافز (" [التكاسل الاجتماعي](https://en.wikipedia.org/wiki/Social_loafing) ") وتحديات التنسيق.
 
 انظر أيضاً:
 
-- [Brooks' Law](#brooks-law)
+- [قانون بروكس](#brooks-law)
 
-### The Law of Conservation of Complexity (Tesler's Law)
+### قانون حفظ التعقيد (قانون تيسلر)
 
-[The Law of Conservation of Complexity on Wikipedia](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)
+[قانون حفظ التعقيد على ويكيبيديا](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)
 
-This law states that there is a certain amount of complexity in a system which cannot be reduced.
+ينص هذا القانون على أن هناك قدراً معيناً من التعقيد في النظام لا يمكن تقليله.
 
-Some complexity in a system is 'inadvertent'. It is a consequence of poor structure, mistakes, or just bad modeling of a problem to solve. Inadvertent complexity can be reduced (or eliminated). However, some complexity is 'intrinsic' as a consequence of the complexity inherent in the problem being solved. This complexity can be moved, but not eliminated.
+بعض التعقيد في النظام "غير مقصود". وهو نتيجة لبنية ضعيفة، أو أخطاء، أو ببساطة لنمذجة سيئة للمشكلة المراد حلها. يمكن تقليل التعقيد غير المقصود (أو إزالته). مع ذلك، هناك بعض التعقيد "الجوهري" نتيجة للتعقيد المتأصل في المشكلة التي يتم حلها. يمكن نقل هذا التعقيد، لكن لا يمكن إزالته.
 
-One interesting element to this law is the suggestion that even by simplifying the entire system, the intrinsic complexity is not reduced, it is *moved to the user*, who must behave in a more complex way.
+أحد العناصر المثيرة للاهتمام في هذا القانون هو الإشارة إلى أنه حتى من خلال تبسيط النظام بأكمله، فإن التعقيد الجوهري لا يتم تقليله، بل يتم *نقله إلى المستخدم* ، الذي يجب أن يتصرف بطريقة أكثر تعقيدًا.
 
-### The Law of Demeter
+### قانون ديميتر
 
-[The Law of Demeter on Wikipedia](https://en.wikipedia.org/wiki/Law_of_Demeter)
+[قانون ديميتر على ويكيبيديا](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
-> Don't talk to strangers.
+> لا تتحدث مع الغرباء.
 
-The Law of Demeter, also known as "The Principle of Least Knowledge" is a principle for software design, particularly relevant in object orientated languages.
+قانون ديميتر، المعروف أيضًا باسم "مبدأ أقل معرفة"، هو مبدأ لتصميم البرمجيات، وهو ذو صلة خاصة في لغات البرمجة الموجهة للكائنات.
 
-It states that a unit of software should talk only to its immediate collaborators. An object `A` with a reference to object `B` can call its methods, but if `B` has a reference to object `C`, `A` should not call `C`s methods. So, if `C` has a `doThing()` method, `A` should not invoke it directly; `B.getC().doThis()`.
+ينص هذا على أن وحدة البرمجيات يجب أن تتواصل فقط مع المتعاونين المباشرين معها. يمكن للكائن `A` الذي لديه مرجع إلى الكائن `B` استدعاء وظائفه، ولكن إذا كان لدى `B` مرجع إلى الكائن `C` ، فلا ينبغي لـ `A` استدعاء وظائف `C` لذا، إذا كان لدى `C` وظيفة `doThing()` ، فلا ينبغي لـ `A` استدعاؤها مباشرةً؛ `B.getC().doThis()` .
 
-Following this principal limits the scope of changes, making them easier and safer in future.
+إن اتباع هذا المبدأ يحد من نطاق التغييرات، مما يجعلها أسهل وأكثر أماناً في المستقبل.
 
-### The Law of Leaky Abstractions
+### قانون التجريدات المتسربة
 
-[The Law of Leaky Abstractions on Joel on Software](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+[قانون التجريدات المتسربة على موقع جويل للبرمجيات](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 
-> All non-trivial abstractions, to some degree, are leaky.
+> جميع التجريدات غير التافهة، إلى حد ما، تعاني من التسرب.
 >
-> ([Joel Spolsky](https://twitter.com/spolsky))
+> ( [جويل سبولسكي](https://twitter.com/spolsky) )
 
-This law states that abstractions, which are generally used in computing to simplify working with complicated systems, will in certain situations 'leak' elements of the underlying system, this making the abstraction behave in an unexpected way.
+ينص هذا القانون على أن التجريدات، التي تستخدم بشكل عام في الحوسبة لتبسيط العمل مع الأنظمة المعقدة، ستؤدي في بعض الحالات إلى "تسريب" عناصر من النظام الأساسي، مما يجعل التجريد يتصرف بطريقة غير متوقعة.
 
-The example above can become more complex when *more* abstractions are introduced. The Linux operating system allows files to be accessed over a network but represented locally as 'normal' files. This abstraction will 'leak' if there are network failures. If a developer treats these files as 'normal' files, without considering the fact that they may be subject to network latency and failures, the solutions will be buggy.
+قد يصبح المثال أعلاه أكثر تعقيدًا عند إضافة *المزيد* من التجريدات. يسمح نظام التشغيل لينكس بالوصول إلى الملفات عبر الشبكة، ولكن يتم تمثيلها محليًا كملفات "عادية". سيتسرب هذا التجريد في حال حدوث أعطال في الشبكة. إذا تعامل المطور مع هذه الملفات كملفات "عادية"، دون مراعاة احتمالية تعرضها لتأخير الشبكة وأعطالها، فستكون الحلول مليئة بالأخطاء.
 
-The article describing the law suggests that an over-reliance on abstractions, combined with a poor understanding of the underlying processes, actually makes dealing with the problem at hand *more* complex in some cases.
+تشير المقالة التي تصف القانون إلى أن الاعتماد المفرط على المفاهيم المجردة، إلى جانب ضعف فهم العمليات الأساسية، يجعل التعامل مع المشكلة المطروحة *أكثر* تعقيدًا في بعض الحالات.
 
 انظر أيضاً:
 
-- [Hyrum's Law](#hyrums-law-the-law-of-implicit-interfaces)
+- [قانون هيروم](#hyrums-law-the-law-of-implicit-interfaces)
 
 أمثلة من الواقع:
 
-- [Photoshop Slow Startup](https://forums.adobe.com/thread/376152) - an issue I encountered in the past. Photoshop would be slow to startup, sometimes taking minutes. It seems the issue was that on startup it reads some information about the current default printer. However, if that printer is actually a network printer, this could take an extremely long time. The *abstraction* of a network printer being presented to the system similar to a local printer caused an issue for users in poor connectivity situations.
+- [بطء بدء تشغيل فوتوشوب](https://forums.adobe.com/thread/376152) - مشكلة واجهتها سابقًا. كان فوتوشوب بطيئًا في بدء التشغيل، وقد يستغرق الأمر دقائق أحيانًا. يبدو أن المشكلة تكمن في أنه عند بدء التشغيل، يقرأ البرنامج بعض المعلومات حول الطابعة الافتراضية الحالية. مع ذلك، إذا كانت هذه الطابعة في الواقع طابعة شبكية، فقد يستغرق هذا وقتًا طويلًا للغاية. تسبب *تجريد* الطابعة الشبكية وعرضها للنظام بشكل مشابه للطابعة المحلية في مشكلة للمستخدمين الذين يعانون من ضعف الاتصال بالإنترنت.
 
-### The Law of the Instrument
+### قانون الصك
 
-[The Law of the Instrument](https://en.wikipedia.org/wiki/Law_of_the_instrument)
+[قانون الصك](https://en.wikipedia.org/wiki/Law_of_the_instrument)
 
-> I call it the law of the instrument, and it may be formulated as follows: Give a small boy a hammer, and he will find that everything he encounters needs pounding.
+> أسميها قانون الأداة، ويمكن صياغتها على النحو التالي: أعطِ صبيًا صغيرًا مطرقة، وسيجد أن كل شيء يصادفه يحتاج إلى طرق.
 >
-> *Abraham Kaplan*
+> *أبراهام كابلان*
 
-> If all you have is a hammer, everything looks like a nail.
+> إذا لم يكن لديك سوى مطرقة، فسيبدو كل شيء وكأنه مسمار.
 >
-> *Abraham Maslow*
+> *أبراهام ماسلو*
 
-In the context of computer programming, this law suggests that people tend to use tools that are familiar with, rather than the best possible tool. This over-reliance on a familiar tool is an anti-pattern referred to as 'the golden hammer'.
+في سياق برمجة الحاسوب، يشير هذا القانون إلى أن الناس يميلون إلى استخدام الأدوات المألوفة لديهم بدلاً من استخدام أفضل أداة ممكنة. هذا الاعتماد المفرط على أداة مألوفة هو نمط سلبي يُعرف باسم "المطرقة الذهبية".
 
 انظر أيضاً:
 
-- [Avoiding the law of the instrument](https://josemdev.com/avoiding-the-law-of-the-instrument/)
-- [Anti-Pattern - The Golden Hammer](https://archive.org/details/antipatternsrefa0000unse/page/111/mode/2up)
+- [تجنب قانون الصك](https://josemdev.com/avoiding-the-law-of-the-instrument/)
+- [النمط المضاد - المطرقة الذهبية](https://archive.org/details/antipatternsrefa0000unse/page/111/mode/2up)
 
-### The Law of Triviality
+### قانون التفاهة
 
-[The Law of Triviality on Wikipedia](https://en.wikipedia.org/wiki/Law_of_triviality)
+[قانون التفاهة على ويكيبيديا](https://en.wikipedia.org/wiki/Law_of_triviality)
 
-This law suggests that groups will give far more time and attention to trivial or cosmetic issues rather than serious and substantial ones.
+يشير هذا القانون إلى أن الجماعات ستولي وقتاً واهتماماً أكبر بكثير للقضايا التافهة أو الشكلية بدلاً من القضايا الخطيرة والجوهرية.
 
-The common fictional example used is that of a committee approving plans for nuclear power plant, who spend the majority of their time discussing the structure of the bike shed, rather than the far more important design for the power plant itself. It can be difficult to give valuable input on discussions about very large, complex topics without a high degree of subject matter expertise or preparation. However, people want to be seen to be contributing valuable input. Hence a tendency to focus too much time on small details, which can be reasoned about easily, but are not necessarily of particular importance.
+من الأمثلة الشائعة في القصص الخيالية مثال لجنة تُعنى بالموافقة على خطط محطة طاقة نووية، حيث يقضي أعضاؤها معظم وقتهم في مناقشة هيكل سقيفة الدراجات بدلاً من التركيز على تصميم المحطة نفسها، وهو أمر بالغ الأهمية. قد يكون من الصعب تقديم إسهامات قيّمة في مناقشات حول مواضيع واسعة ومعقدة دون امتلاك خبرة واسعة في الموضوع أو إعداد مسبق. ومع ذلك، يرغب الناس في أن يُنظر إليهم على أنهم يُساهمون بإسهامات قيّمة. ومن هنا ينشأ ميلٌ إلى التركيز المفرط على التفاصيل الصغيرة، التي يُمكن التفكير فيها بسهولة، ولكنها ليست بالضرورة ذات أهمية خاصة.
 
-The fictional example above led to the usage of the term 'Bike Shedding' as an expression for wasting time on trivial details. A related term is '[Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving),' which connotes a seemingly irrelevant activity that is part of a long chain of prerequisites to the main task.
+أدى المثال الخيالي المذكور أعلاه إلى استخدام مصطلح "Bike Shedding" للتعبير عن إضاعة الوقت في تفاصيل تافهة. وهناك مصطلح مشابه هو " [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) "، الذي يشير إلى نشاط يبدو غير ذي صلة، ولكنه جزء من سلسلة طويلة من المتطلبات الأساسية للمهمة الرئيسية.
 
-### The Unix Philosophy
+### فلسفة يونكس
 
-[The Unix Philosophy on Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
+[فلسفة يونكس على ويكيبيديا](https://en.wikipedia.org/wiki/Unix_philosophy)
 
-The Unix Philosophy is that software components should be small, and focused on doing one specific thing well. This can make it easier to build systems by composing together small, simple, well-defined units, rather than using large, complex, multi-purpose programs.
+تقوم فلسفة يونكس على أن تكون مكونات البرمجيات صغيرة، وتركز على أداء مهمة محددة بكفاءة عالية. وهذا يُسهّل بناء الأنظمة من خلال تجميع وحدات صغيرة وبسيطة ومحددة جيدًا، بدلاً من استخدام برامج كبيرة ومعقدة ومتعددة الأغراض.
 
-Modern practices like 'Microservice Architecture' can be thought of as an application of this law, where services are small, focused and do one specific thing, allowing complex behaviour to be composed of simple building blocks.
+يمكن اعتبار الممارسات الحديثة مثل "هندسة الخدمات المصغرة" بمثابة تطبيق لهذا القانون، حيث تكون الخدمات صغيرة ومركزة وتؤدي مهمة محددة واحدة، مما يسمح بتكوين سلوك معقد من لبنات بناء بسيطة.
 
-### The Scout Rule
+### قاعدة الكشافة
 
-[The Scout Rule on O'Reilly](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html)
+[قاعدة الكشافة بشأن أورايلي](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html)
 
-> Always leave the code better than you found it.
+> اترك الكود دائمًا في حالة أفضل مما وجدته عليه.
 >
-> (Robert C. Martin (Uncle Bob))
+> (روبرت سي. مارتن (العم بوب))
 
-Based on the "Scout Rule", which is "always leave the campground cleaner than you found it", the Scout Rule in programming is simply "always leave the code cleaner than you found it".
+استنادًا إلى "قاعدة الكشافة"، والتي تنص على "اترك المخيم دائمًا أنظف مما وجدته"، فإن قاعدة الكشافة في البرمجة هي ببساطة "اترك الكود دائمًا أنظف مما وجدته".
 
-This was introduced in the first chapter of the book [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) by Bob Martin. The rule suggests that developers should perform 'optimistic refactoring', which means to endeavour to improve the overall quality of the code when you work on it. If you see a mistake, attempt to fix it or clean it up. However, when making changes to code which seems incorrect, it may be worth remembering [Chesterton's Fence](#chestertons-fence)!
+طُرح هذا المفهوم في الفصل الأول من كتاب ["البرمجة النظيفة"](https://www.goodreads.com/book/show/3735293-clean-code) لبوب مارتن. وتقترح القاعدة أن يقوم المطورون بـ"إعادة هيكلة متفائلة"، أي السعي لتحسين الجودة الإجمالية للكود أثناء العمل عليه. فإذا لاحظت خطأً، حاول إصلاحه أو تنظيفه. لكن عند إجراء تغييرات على كود يبدو غير صحيح، قد يكون من المفيد تذكر [قاعدة "سياج تشيسترتون](#chestertons-fence) "!
 
 انظر أيضاً:
 
-- [Reading List: Clean Code](#reading-list)
-- [Chesterton's Fence](#chestertons-fence)
-- [The Broken Windows Theory](#broken-windows-theory)
+- [قائمة القراءة: الكود النظيف](#reading-list)
+- [سياج تشيسترتون](#chestertons-fence)
+- [نظرية النوافذ المكسورة](#broken-windows-theory)
 
 https://www.amazon.sg/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 
-### The Second-System Effect
+### تأثير النظام الثاني
 
-[The Second-System Effect on Wikipedia](https://en.wikipedia.org/wiki/Second-system_effect)
+[تأثير النظام الثاني على ويكيبيديا](https://en.wikipedia.org/wiki/Second-system_effect)
 
-[The Second-System Effect in *The Mythical Man-Month*](https://pages.cs.wisc.edu/~param/quotes/man-month.html)
+[تأثير النظام الثاني في *الشهر الأسطوري للرجل*](https://pages.cs.wisc.edu/~param/quotes/man-month.html)
 
-> The second is the most dangerous system a man ever designs.
+> أما النظام الثاني فهو أخطر نظام يصممه الإنسان على الإطلاق.
 >
-> (Frederick P. Brooks Jr.)
+> (فريدريك ب. بروكس الابن)
 
-The Second-System Effect describes the tendency for a successful first system to be followed by an over-engineered or bloated second system. Frederick P. Brooks Jr. introduced the phrase in *The Mythical Man-Month*, where he argued that a first system is often built conservatively because its designers are still learning and proceed with restraint.
+يُشير مصطلح "تأثير النظام الثاني" إلى ميل النظام الأول الناجح إلى أن يتبعه نظام ثانٍ مُبالغ في تصميمه أو مُتضخم. وقد طرح فريدريك ب. بروكس الابن هذا المصطلح في *كتابه "أسطورة الشهر الرجلي"* ، حيث جادل بأن النظام الأول غالبًا ما يُبنى بشكل متحفظ لأن مصمميه ما زالوا يتعلمون ويتعاملون بحذر.
 
-After that initial success, deferred ideas and increased confidence can make the second system more ambitious. This is relevant to rewrites, major version 2 projects and platform rebuilds: a replacement system can be useful when the first version has taught the team what the real problem is, but it can also become harder to build, understand and maintain if it attempts to solve too many speculative future needs at once.
+بعد ذلك النجاح الأولي، قد تدفع الأفكار المؤجلة والثقة المتزايدة النظام الثاني إلى أن يكون أكثر طموحًا. وهذا ينطبق على عمليات إعادة الكتابة، ومشاريع الإصدار الثاني الرئيسية، وإعادة بناء المنصات: إذ يمكن أن يكون النظام البديل مفيدًا عندما يُعلّم الإصدار الأول الفريقَ المشكلةَ الحقيقية، ولكنه قد يصبح أيضًا أكثر صعوبة في البناء والفهم والصيانة إذا حاول حل الكثير من الاحتياجات المستقبلية غير المتوقعة في آن واحد.
 
 انظر أيضاً:
 
-- [Brooks' Law](#brooks-law)
-- [Gall's Law](#galls-law)
-- [The KISS principle](#the-kiss-principle)
-- [YAGNI](#yagni)
+- [قانون بروكس](#brooks-law)
+- [قانون غال](#galls-law)
+- [مبدأ البساطة](#the-kiss-principle)
+- [ياغني](#yagni)
 
 أمثلة من الواقع:
 
-- [OS/360](https://en.wikipedia.org/wiki/OS/360) - Brooks used IBM's OS/360 as a key example of the Second-System Effect in *The Mythical Man-Month*, contrasting its ambitious scope with earlier, simpler IBM operating systems.
+- [نظام التشغيل OS/360](https://en.wikipedia.org/wiki/OS/360) - استخدم بروكس نظام التشغيل OS/360 من شركة IBM كمثال رئيسي على تأثير النظام الثاني في *كتابه "الشهر الأسطوري للرجل"* ، حيث قارن نطاقه الطموح بأنظمة التشغيل السابقة والأبسط من شركة IBM.
 
-### The Spotify Model
+### نموذج سبوتيفاي
 
-[The Spotify Model on Spotify Labs](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+[نموذج سبوتيفاي على مختبرات سبوتيفاي](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 
-The Spotify Model is an approach to team and organisation structure which has been popularised by 'Spotify'. In this model, teams are organised around features, rather than technologies.
+نموذج سبوتيفاي هو نهج لتنظيم فرق العمل والمؤسسات، وقد اشتهر بفضل شركة سبوتيفاي. في هذا النموذج، يتم تنظيم الفرق بناءً على الميزات، وليس على التقنيات.
 
-The Spotify Model also popularises the concepts of Tribes, Guilds, Chapters, which are other components of their organisation structure.
+كما يساهم نموذج سبوتيفاي في نشر مفاهيم القبائل والنقابات والفصول، والتي تعد مكونات أخرى لهيكلها التنظيمي.
 
-Members of the organisation have described that the actual meaning of these groups changes, evolves and is an on-going experiment. The fact that the model is a *process in motion*, rather than a fixed model continues to lead to varying interpretations of the structure, which may be based on presentations given by employees at conferences. This means 'snapshots' may be 're-packaged' by third parties as a *fixed structure*, with the fact that the model is dynamic being lost.
+أوضح أعضاء المنظمة أن المعنى الحقيقي لهذه المجموعات يتغير ويتطور، وأنه تجربة مستمرة. ولأن النموذج *عملية ديناميكية* وليست ثابتة، فإنه يؤدي باستمرار إلى تفسيرات متباينة للهيكل، والتي قد تستند إلى عروض يقدمها الموظفون في المؤتمرات. وهذا يعني أن جهات خارجية قد تعيد صياغة "لقطات" من النموذج على أنها *هيكل ثابت* ، متجاهلةً بذلك طبيعته الديناميكية.
 
-### The Two Pizza Rule
+### قاعدة البيتزا المزدوجة
 
-> If you can't feed a team with two pizzas, it's too large.
+> إذا لم تستطع إطعام فريق كامل ببيتزتين، فهذا يعني أنها كبيرة جدًا.
 >
-> (Jeff Bezos)
+> (جيف بيزوس)
 
-This rule suggests that regardless of the size of the company, teams should be small enough to be fed by two pizzas. Attributed to Jeff Bezos and Amazon, this belief suggests that large teams are inherently inefficient. This is supported by the fact that as the team size increases linearly, the links between people increases quadratically; thus the cost of coordinating and communicating also grows quadratically. If this cost of coordination is essentially overhead, then smaller teams should be preferred.
+تشير هذه القاعدة إلى أنه بغض النظر عن حجم الشركة، يجب أن تكون فرق العمل صغيرة بما يكفي لإطعامها ببيتزتين. يُنسب هذا الاعتقاد إلى جيف بيزوس وأمازون، ويوحي بأن الفرق الكبيرة غير فعّالة بطبيعتها. ويدعم هذا الاعتقاد حقيقة أنه مع ازدياد حجم الفريق خطيًا، تزداد الروابط بين الأفراد تربيعيًا؛ وبالتالي، تزداد تكلفة التنسيق والتواصل تربيعيًا أيضًا. إذا كانت تكلفة التنسيق هذه تُعتبر في جوهرها نفقات إضافية، فمن الأفضل اختيار فرق أصغر.
 
-The number of links between people can be expressed as `n(n-1)/2` where n = number of people.
+يمكن التعبير عن عدد الروابط بين الأشخاص على النحو التالي: `n(n-1)/2` حيث n = عدد الأشخاص.
 
 
-<img width="200px" alt="Complete graph; Links between people" src="./images/complete_graph.png">
+<img width="200px" alt="رسم بياني كامل؛ روابط بين الأشخاص" src="./images/complete_graph.png">
 
-### Twyman's law
+### قانون تويمان
 
-[Twyman's Law on Wikipedia](https://en.wikipedia.org/wiki/Twyman%27s_law)
+[قانون تويمان على ويكيبيديا](https://en.wikipedia.org/wiki/Twyman%27s_law)
 
-> The more unusual or interesting the data, the more likely they are to have been the result of an error of one kind or another.
+> كلما كانت البيانات غير عادية أو مثيرة للاهتمام، زادت احتمالية كونها نتيجة خطأ من نوع أو آخر.
 
-This law suggests that when there are particularly unusual data points, it is more likely that they are the result of errors or manipulation. For example, if a dataset of long-jump results from a sporting event showed a maximum value of 20 meters (more than twice the world record), it is more likely to be due to an error (such as recording a value in feet rather than meters) than due to an unusually long jump. It is also more likely in this case that the results could have been manipulated.
+يشير هذا القانون إلى أنه عندما توجد بيانات غير اعتيادية، فمن المرجح أن تكون ناتجة عن أخطاء أو تلاعب. على سبيل المثال، إذا أظهرت مجموعة بيانات نتائج الوثب الطويل في حدث رياضي قيمة قصوى تبلغ 20 مترًا (أكثر من ضعف الرقم القياسي العالمي)، فمن المرجح أن يكون ذلك بسبب خطأ (مثل تسجيل القيمة بالأقدام بدلًا من الأمتار) وليس بسبب قفزة طويلة غير معتادة. كما أنه من المرجح في هذه الحالة أن تكون النتائج قد تم التلاعب بها.
 
 انظر أيضاً:
 
-- [Sagan Standard](#TODO)
+- [ساجان ستاندرد](#TODO)
 
-### Wadler's Law
+### قانون وادلر
 
-[Wadler's Law on wiki.haskell.org](https://wiki.haskell.org/Wadler's_Law)
+[قانون وادلر على موقع wiki.haskell.org](https://wiki.haskell.org/Wadler's_Law)
 
-> In any language design, the total time spent discussing a feature in this list is proportional to two raised to the power of its position.
+> في أي تصميم للغة، يكون إجمالي الوقت الذي يقضيه في مناقشة ميزة في هذه القائمة متناسبًا مع اثنين مرفوعًا إلى قوة موقعها.
 >
-> 1. Semantics
-> 2. Syntax
-> 3. Lexical syntax
-> 4. Lexical syntax of comments
+> 1. علم الدلالة
+> 2. بناء الجملة
+> 3. التركيب المعجمي
+> 4. التركيب اللغوي للتعليقات
 >
-> (In short, for every hour spent on semantics, 8 hours will be spent on the syntax of comments).
+> (باختصار، مقابل كل ساعة تُقضى في الدلالات، سيتم قضاء 8 ساعات في بناء جملة التعليقات).
 
-Similar to [The Law of Triviality](#the-law-of-triviality), Wadler's Law states what when designing a language, the amount of time spent on language structures is disproportionately high in comparison to the importance of those features.
+على غرار [قانون التفاهة](#the-law-of-triviality) ، ينص قانون وادلر على أنه عند تصميم لغة ما، يكون مقدار الوقت الذي يقضيه في هياكل اللغة مرتفعًا بشكل غير متناسب مقارنة بأهمية تلك الميزات.
 
 انظر أيضاً:
 
-- [The Law of Triviality](#the-law-of-triviality)
+- [قانون التفاهة](#the-law-of-triviality)
 
-### Wheaton's Law
+### قانون ويتون
 
-[The Link](http://www.wheatonslaw.com/)
+[الرابط](http://www.wheatonslaw.com/)
 
-[The Official Day](https://dontbeadickday.com/)
+[اليوم الرسمي](https://dontbeadickday.com/)
 
-> Don't be a dick.
+> لا تكن وقحاً.
 >
-> *Wil Wheaton*
+> *ويل ويتون*
 
 صاغ ويل ويتون (مؤلف مسلسلَي "ستار تريك: الجيل التالي" و"نظرية الانفجار العظيم") هذا القانون البسيط والموجز والفعّال، والذي يهدف إلى تعزيز الانسجام والاحترام داخل المؤسسات المهنية. ويمكن تطبيقه عند التحدث مع زملاء العمل، ومراجعة التعليمات البرمجية، ومواجهة وجهات النظر الأخرى، والنقد، وبشكل عام، في معظم التفاعلات المهنية بين البشر.
 
-## Principles
+## مبادئ
 
-Principles are generally more likely to be guidelines relating to design.
+من المرجح عموماً أن تكون المبادئ عبارة عن إرشادات تتعلق بالتصميم.
 
-### All Models Are Wrong (George Box's Law)
+### جميع النماذج خاطئة (قانون جورج بوكس)
 
-[All Models Are Wrong](https://en.wikipedia.org/wiki/All_models_are_wrong)
+[جميع النماذج خاطئة](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
-> All models are wrong, but some are useful.
+> جميع النماذج خاطئة، لكن بعضها مفيد.
 >
-> *George Box*
+> *جورج بوكس*
 
-This principle suggests that all models of systems are flawed, but that as long as they are not *too* flawed they may be useful. This principle has its roots in statistics but applies to scientific and computing models as well.
+يشير هذا المبدأ إلى أن جميع نماذج الأنظمة تعاني من عيوب، ولكن طالما أنها ليست معيبة *بشكل كبير* ، فقد تكون مفيدة. يستند هذا المبدأ إلى علم الإحصاء، ولكنه ينطبق أيضاً على النماذج العلمية والحاسوبية.
 
-A fundamental requirement of most software is to model a system of some kind. Regardless of whether the system being modeled is a computer network, a library, a graph of social connections or any other kind of system, the designer will have to decide an appropriate level of detail to model. Excessive detail may lead to too much complexity, too little detail may prevent the model from being functional.
+يُعدّ تصميم نموذج لنظام ما شرطًا أساسيًا لمعظم البرامج. وسواءً كان النظام المراد تصميمه شبكة حاسوب، أو مكتبة، أو رسمًا بيانيًا للعلاقات الاجتماعية، أو أي نوع آخر، فعلى المصمم تحديد مستوى التفاصيل المناسب للنمذجة. فالتفاصيل المفرطة قد تؤدي إلى تعقيد مفرط، بينما قد تؤدي التفاصيل القليلة جدًا إلى عدم فعالية النموذج.
 
 انظر أيضاً:
 
-- [The Law of Leaky Abstractions](#the-law-of-leaky-abstractions)
+- [قانون التجريدات المتسربة](#the-law-of-leaky-abstractions)
 
-### Chesterton's Fence
+### سياج تشيسترتون
 
-[Chesterton's Fence on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)
+[سور تشيسترتون على ويكيبيديا](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)
 
-> Reforms should not be made until the reasoning behind the existing state of affairs is understood.
+> لا ينبغي إجراء الإصلاحات إلا بعد فهم الأسباب الكامنة وراء الوضع الراهن.
 
-This principle is relevant in software engineering when removing technical debt. Each line of a program was originally written by someone for some reason. Chesterton's Fence suggests that one should try to understand the context and meaning of the code fully, before changing or removing it, even if at first glance it seems redundant or incorrect.
+يُعدّ هذا المبدأ ذا صلة بهندسة البرمجيات عند معالجة الديون التقنية. فكل سطر من البرنامج كُتب في الأصل من قِبل شخص ما لسبب ما. ويشير مبدأ "سياج تشيسترتون" إلى ضرورة محاولة فهم سياق ومعنى الكود فهمًا كاملًا قبل تغييره أو حذفه، حتى لو بدا للوهلة الأولى زائدًا عن الحاجة أو غير صحيح.
 
 يُستمد اسم هذا المبدأ من قصةٍ لـ [جي كي تشيسترتون](https://en.wikipedia.org/wiki/G._K._Chesterton) . يصادف رجلٌ سياجًا يقطع منتصف الطريق، فيشتكي إلى رئيس البلدية من أن هذا السياج عديم الفائدة يعيق الطريق، ويطلب إزالته. يسأله رئيس البلدية عن سبب وجود السياج أصلًا. عندما يجيب الرجل بأنه لا يعلم، يقول رئيس البلدية: "إذا كنت لا تعرف الغرض منه، فلن أسمح لك بإزالته. اذهب واكتشف فائدته، وحينها قد أسمح لك بهدمه".
 
-### Kerckhoffs's principle
+### مبدأ كيركوف
 
-[Kerckhoffs's principle on Wikipedia](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
+[مبدأ كيركهوفس ويكيبيديا](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
 
-> "...design your system assuming that your opponents know it in detail."
+> "...صمم نظامك على افتراض أن خصومك يعرفونه بالتفصيل."
 >
-> *Steven M. Bellovin's formulation of Kerckhoff's Principle*
+> *صياغة ستيفن إم بيلوفين لمبدأ كيركوف*
 
-This principle of cryptography was an axiom created by cryptographer Auguste Kerckhoffs. He stated that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. Not to be confused with [*"security through obscurity"*](#todo).
+كان هذا المبدأ في علم التشفير بديهية وضعها عالم التشفير أوغست كيركوفس. وقد نصّ على أن نظام التشفير يجب أن يكون آمناً، حتى لو كانت جميع معلومات النظام، باستثناء المفتاح، متاحة للعامة. ولا ينبغي الخلط بين هذا المبدأ ومفهوم [*"الأمان عن طريق التعتيم"*](#todo) .
 
-The gold standard for any secret-keeping system is that implementation details should be publicly distributed, without sacrificing or compromising security of said system.
+إن المعيار الذهبي لأي نظام لحفظ الأسرار هو أن يتم توزيع تفاصيل التنفيذ علنًا، دون التضحية بأمن النظام المذكور أو المساس به.
 
-The history of cryptography has shown that open discussion and analysis of cryptographic systems leads to better and more secure systems - as researchers are able to test for and expose potential vulnerabilities.
+لقد أظهر تاريخ علم التشفير أن المناقشة المفتوحة وتحليل أنظمة التشفير يؤدي إلى أنظمة أفضل وأكثر أمانًا - حيث يتمكن الباحثون من اختبار وكشف نقاط الضعف المحتملة.
 
-- [Shannon's Maxim](#todo)
+- [مبدأ شانون](#todo)
 
-### The Dead Sea Effect
+### تأثير البحر الميت
 
-[The Dead Sea Effect on Bruce F. Webster](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
+[تأثير البحر الميت على بروس ف. ويبستر](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
 
 > "... إن مهندسي تكنولوجيا المعلومات الأكثر موهبة وفعالية هم الأكثر عرضة للمغادرة - للتبخر ... [أولئك الذين يميلون إلى] البقاء [هم] "الرواسب" - مهندسو تكنولوجيا المعلومات الأقل موهبة وفعالية."
 >
-> *Bruce F. Webster*
+> *بروس ف. ويبستر*
 
-The "Dead Sea Effect" suggests that in any organisation, the skills/talent/efficacy of engineers is often inversely proportional to their time in the company.
+يشير "تأثير البحر الميت" إلى أنه في أي منظمة، غالبًا ما تكون مهارات/مواهب/كفاءة المهندسين متناسبة عكسيًا مع الوقت الذي يقضونه في الشركة.
 
-Typically, highly skilled engineers find it easy to gain employment elsewhere and are the first to do so. Engineers who have obsolete or weak skills will tend to remain with the company, as finding employment elsewhere is difficult. This is particularly pronounced if they have gained incremental pay rises over their time in the company, as it can be challenging to get equivalent remuneration elsewhere.
+عادةً ما يجد المهندسون ذوو المهارات العالية سهولةً في الحصول على وظائف أخرى، ويكونون من أوائل من يفعل ذلك. أما المهندسون ذوو المهارات القديمة أو الضعيفة، فيميلون إلى البقاء في الشركة، لصعوبة إيجاد عمل آخر. ويبرز هذا الأمر بشكل خاص إذا كانوا قد حصلوا على زيادات تدريجية في رواتبهم خلال فترة عملهم في الشركة، إذ قد يكون من الصعب الحصول على أجر مماثل في مكان آخر.
 
-### The Dilbert Principle
+### مبدأ ديلبرت
 
-[The Dilbert Principle on Wikipedia](https://en.wikipedia.org/wiki/Dilbert_principle)
+[مبدأ ديلبرت على ويكيبيديا](https://en.wikipedia.org/wiki/Dilbert_principle)
 
-> Companies tend to systematically promote incompetent employees to management to get them out of the workflow.
+> تميل الشركات إلى ترقية الموظفين غير الأكفاء إلى مناصب إدارية بشكل منهجي لإخراجهم من سير العمل.
 >
-> *Scott Adams*
+> *سكوت آدامز*
 
-A management concept developed by Scott Adams (creator of the Dilbert comic strip), the Dilbert Principle is inspired by [The Peter Principle](#the-peter-principle). Under the Dilbert Principle, employees who were never competent are promoted to management in order to limit the damage they can do. Adams first explained the principle in a 1995 Wall Street Journal article, and expanded upon it in his 1996 business book, [The Dilbert Principle](#reading-list).
+مفهوم إداري طوره سكوت آدامز (مبتكر سلسلة ديلبرت الكوميدية)، يُعرف بمبدأ ديلبرت، وهو مستوحى من [مبدأ بيتر](#the-peter-principle) . وبموجب هذا المبدأ، تتم ترقية الموظفين الذين لم يكونوا أكفاءً قط إلى مناصب إدارية للحد من الأضرار التي قد يتسببون بها. وقد شرح آدامز هذا المبدأ لأول مرة في مقال نُشر عام ١٩٩٥ في صحيفة وول ستريت جورنال، ثم توسع فيه في كتابه ["مبدأ](#reading-list) ديلبرت" الصادر عام ١٩٩٦.
 
 انظر أيضاً:
 
-- [The Peter Principle](#the-peter-principle)
-- [Putt's Law](#putts-law)
+- [مبدأ بيتر](#the-peter-principle)
+- [قانون بوت](#putts-law)
 
-### The Pareto Principle (The 80/20 Rule)
+### مبدأ باريتو (قاعدة 80/20)
 
-[The Pareto Principle on Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
+[مبدأ باريتو على ويكيبيديا](https://en.wikipedia.org/wiki/Pareto_principle)
 
-> Most things in life are not distributed evenly.
+> معظم الأشياء في الحياة لا تتوزع بالتساوي.
 
-The Pareto Principle suggests that in some cases, the majority of results come from a minority of inputs:
+يشير مبدأ باريتو إلى أنه في بعض الحالات، تأتي غالبية النتائج من أقلية من المدخلات:
 
-- 80% of a certain piece of software can be written in 20% of the total allocated time (conversely, the hardest 20% of the code takes 80% of the time)
-- 20% of the effort produces 80% of the result
-- 20% of the work creates 80% of the revenue
-- 20% of the bugs cause 80% of the crashes
-- 20% of the features cause 80% of the usage
+- يمكن كتابة 80% من برنامج معين في 20% من إجمالي الوقت المخصص (على العكس من ذلك، فإن أصعب 20% من الكود تستغرق 80% من الوقت).
+- 20% من الجهد ينتج 80% من النتيجة
+- 20% من العمل يُدرّ 80% من الإيرادات
+- 20% من الأخطاء البرمجية تتسبب في 80% من حالات التعطل.
+- 20% من الميزات تتسبب في 80% من الاستخدام
 
-In the 1940s American-Romanian engineer Dr. Joseph Juran, who is widely credited with being the father of quality control, [began to apply the Pareto principle to quality issues](https://en.wikipedia.org/wiki/Joseph_M._Juran).
+في أربعينيات القرن العشرين، [بدأ المهندس الأمريكي الروماني الدكتور جوزيف جوران، الذي يُنسب إليه على نطاق واسع أنه أبو مراقبة الجودة، في تطبيق مبدأ باريتو على قضايا الجودة](https://en.wikipedia.org/wiki/Joseph_M._Juran) .
 
-This principle is also known as: The 80/20 Rule, The Law of the Vital Few, and The Principle of Factor Sparsity.
+يُعرف هذا المبدأ أيضًا باسم: قاعدة 80/20، وقانون القلة الحيوية، ومبدأ ندرة العوامل.
 
 أمثلة من الواقع:
 
-- In 2002 Microsoft reported that by fixing the top 20% of the most-reported bugs, 80% of the related errors and crashes in windows and office would become eliminated ([Reference](https://www.crn.com/news/security/18821726/microsofts-ceo-80-20-rule-applies-to-bugs-not-just-features.htm)).
+- في عام 2002، أفادت مايكروسوفت أنه من خلال إصلاح أعلى 20٪ من الأخطاء الأكثر الإبلاغ عنها، سيتم القضاء على 80٪ من الأخطاء والانهيارات ذات الصلة في ويندوز وأوفيس ( [مرجع](https://www.crn.com/news/security/18821726/microsofts-ceo-80-20-rule-applies-to-bugs-not-just-features.htm) ).
 
-### The Shirky Principle
+### مبدأ شيركي
 
-[The Shirky Principle explained](https://kk.org/thetechnium/the-shirky-prin/)
+[شرح مبدأ شيركي](https://kk.org/thetechnium/the-shirky-prin/)
 
-> Institutions will try to preserve the problem to which they are the solution.
+> ستحاول المؤسسات الحفاظ على المشكلة التي تمثل هي الحل لها.
 >
-> *Clay Shirky*
+> *كلاي شيركي*
 
-The Shirky Principle suggests that complex solutions - a company, an industry, or a technology - can become so focused on the problem that they are solving, that they can inadvertently perpetuate the problem itself. This may be deliberate (a company striving to find new nuances to a problem which justify continued development of a solution), or inadvertent (being unable or unwilling to accept or build a solution which solves the problem completely or obviates it).
+يشير مبدأ شيركي إلى أن الحلول المعقدة - سواء كانت شركة أو قطاعًا أو تقنية - قد تُركز بشدة على المشكلة التي تحاول حلها، لدرجة أنها قد تُساهم دون قصد في استمرار المشكلة نفسها. قد يكون هذا مقصودًا (كأن تسعى الشركة لاكتشاف جوانب جديدة للمشكلة تُبرر استمرار تطوير الحل)، أو غير مقصود (كعدم القدرة أو الرغبة في قبول أو بناء حل يُعالج المشكلة تمامًا أو يُلغيها).
 
-Related to:
+ذات صلة بـ:
 
 - مقولة أبتون سنكلير الشهيرة: *"من الصعب جعل الرجل يفهم شيئاً ما، عندما يعتمد راتبه على عدم فهمه له!"*
-- Clay Christensen's *The Innovator's Dilemma*
+- كتاب كلاي كريستنسن " *معضلة المبتكر"*
 
 انظر أيضاً:
 
-- [Pareto Principle](#the-pareto-principle-the-8020-rule)
+- [مبدأ باريتو](#the-pareto-principle-the-8020-rule)
 
-### The Stochastic Parrot
+### الببغاء العشوائي
 
-[On the Dangers of Stochastic Parrots - Bender, Gebru, et al. (2021)](https://dl.acm.org/doi/10.1145/3442188.3445922)
+[حول مخاطر الببغاوات العشوائية - بندر، جبرو، وآخرون (2021)](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
-> Contrary to how it may seem when we observe its output, an LM is a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning: a stochastic parrot.
+> على عكس ما قد يبدو عليه الأمر عندما نلاحظ مخرجاته، فإن نموذج اللغة هو نظام لربط تسلسلات الأشكال اللغوية التي لاحظها في بيانات التدريب الضخمة الخاصة به بشكل عشوائي، وفقًا لمعلومات احتمالية حول كيفية دمجها، ولكن دون أي إشارة إلى المعنى: ببغاء عشوائي.
 >
-> *Emily M. Bender, Timnit Gebru, et al. (2021)*
+> *إميلي إم. بيندر، تيمنيت جبرو، وآخرون (2021)*
 
-The term argues that Large Language Models (LLMs) produce statistically likely sequences of text based on training data, without genuine comprehension. Essentially - confident-sounding output is not evidence of correctness or understanding.
+يشير هذا المصطلح إلى أن نماذج اللغة الكبيرة (LLMs) تُنتج تسلسلات نصية ذات احتمالية إحصائية بناءً على بيانات التدريب، دون فهم حقيقي. بمعنى آخر، فإن المخرجات التي تبدو واثقة لا تُعد دليلاً على صحتها أو فهمها.
 
-Models can (and do) "hallucinate" - producing plausible sounding output or confidently making statements which are demonstrably wrong. This does not devalue these models, but highlights important characteristics which must be accounted for when using them.
+قد تُصدر النماذج (بل وتُصدر بالفعل) نتائج تبدو منطقية ظاهريًا، أو تُدلي بتصريحات خاطئة بشكل واضح. هذا لا يُقلل من قيمة هذه النماذج، بل يُسلط الضوء على خصائص مهمة يجب مراعاتها عند استخدامها.
 
 انظر أيضاً:
 
-- [The Bitter Lesson](#the-bitter-lesson)
-- [All Models Are Wrong (George Box's Law)](#all-models-are-wrong-george-boxs-law)
+- [الدرس المرير](#the-bitter-lesson)
+- [جميع النماذج خاطئة (قانون جورج بوكس)](#all-models-are-wrong-george-boxs-law)
 
-### The Peter Principle
+### مبدأ بيتر
 
-[The Peter Principle on Wikipedia](https://en.wikipedia.org/wiki/Peter_principle)
+[مبدأ بيتر على ويكيبيديا](https://en.wikipedia.org/wiki/Peter_principle)
 
 > يميل الأشخاص في التسلسل الهرمي إلى الارتقاء إلى "مستوى عدم كفاءتهم".
 >
-> *Laurence J. Peter*
+> *لورانس ج. بيتر*
 
-A management concept developed by Laurence J. Peter, the Peter Principle observes that people who are good at their jobs are promoted, until they reach a level where they are no longer successful (their "level of incompetence"). At this point, as they are more senior, they are less likely to be removed from the organisation (unless they perform spectacularly badly) and will continue to reside in a role which they have few intrinsic skills at, as their original skills which made them successful are not necessarily the skills required for their new jobs.
+ينص مبدأ بيتر، وهو مفهوم إداري طوره لورانس ج. بيتر، على أن الموظفين المتميزين في وظائفهم يُرقّون حتى يصلوا إلى مستوى لا يعودون فيه ناجحين (مستوى عدم كفاءتهم). عند هذه النقطة، ونظرًا لخبرتهم الأقدم، يقل احتمال فصلهم من المؤسسة (إلا إذا كان أداؤهم سيئًا للغاية)، وسيستمرون في شغل وظائف لا يمتلكون فيها مهارات جوهرية كافية، لأن مهاراتهم الأصلية التي ساهمت في نجاحهم لا تتطابق بالضرورة مع المهارات المطلوبة لوظائفهم الجديدة.
 
-This is of particular interest to engineers - who initially start out in deeply technical roles, but often have a career path which leads to *managing* other engineers - which requires a fundamentally different skill set.
-
-انظر أيضاً:
-
-- [The Dilbert Principle](#the-dilbert-principle)
-- [Putt's Law](#putts-law)
-
-### The Robustness Principle (Postel's Law)
-
-[The Robustness Principle on Wikipedia](https://en.wikipedia.org/wiki/Robustness_principle)
-
-> Be conservative in what you do, be liberal in what you accept from others.
-
-Often applied in server application development, this principle states that what you send to others should be as minimal and conformant as possible, but you should aim to allow non-conformant input if it can be processed.
-
-The goal of this principle is to build systems which are robust, as they can handle poorly formed input if the intent can still be understood. However, there are potentially security implications of accepting malformed input, particularly if the processing of such input is not well tested. These implications and other issues are described by Eric Allman in [The Robustness Principle Reconsidered](https://queue.acm.org/detail.cfm?id=1999945).
-
-Allowing non-conformant input, in time, may undermine the ability of protocols to evolve as implementors will eventually rely on this liberality to build their features.
+وهذا الأمر يثير اهتماماً خاصاً لدى المهندسين - الذين يبدأون في البداية بأدوار تقنية عميقة، ولكن غالباً ما يكون لديهم مسار وظيفي يؤدي إلى *إدارة* مهندسين آخرين - الأمر الذي يتطلب مجموعة مهارات مختلفة بشكل أساسي.
 
 انظر أيضاً:
 
-- [Hyrum's Law](#hyrums-law-the-law-of-implicit-interfaces)
+- [مبدأ ديلبرت](#the-dilbert-principle)
+- [قانون بوت](#putts-law)
 
-### SOLID
+### مبدأ المتانة (قانون بوستل)
 
-This is an acronym, which refers to:
+[مبدأ المتانة على ويكيبيديا](https://en.wikipedia.org/wiki/Robustness_principle)
 
-These are key principles in [Object-Oriented Programming](#todo). Design principles such as these should be able to aid developers build more maintainable systems.
+> كن محافظاً فيما تفعل، وكن متحرراً فيما تقبله من الآخرين.
 
-### The Single Responsibility Principle
+غالباً ما يتم تطبيق هذا المبدأ في تطوير تطبيقات الخادم، وينص على أن ما ترسله للآخرين يجب أن يكون في حده الأدنى ومتوافقاً قدر الإمكان، ولكن يجب أن تهدف إلى السماح بالمدخلات غير المتوافقة إذا كان من الممكن معالجتها.
 
-[The Single Responsibility Principle on Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+يهدف هذا المبدأ إلى بناء أنظمة متينة، قادرة على التعامل مع المدخلات غير المكتملة إذا كان بالإمكان فهم الغرض منها. مع ذلك، قد تترتب على قبول هذه المدخلات آثار أمنية، خاصةً إذا لم يتم اختبار معالجتها بشكل كافٍ. وقد شرح إريك ألمان هذه الآثار وغيرها من القضايا في [كتابه "إعادة النظر في مبدأ المتانة"](https://queue.acm.org/detail.cfm?id=1999945) .
 
-> Every module or class should have a single responsibility only.
-
-The first of the '[SOLID](#solid)' principles. This principle suggests that modules or classes should do one thing and one thing only. In more practical terms, this means that a single, small change to a feature of a program should require a change in one component only. For example, changing how a password is validated for complexity should require a change in only one part of the program.
-
-Theoretically, this should make the code more robust, and easier to change. Knowing that a component being changed has a single responsibility only means that *testing* that change should be easier. Using the earlier example, changing the password complexity component should only be able to affect the features which relate to password complexity. It can be much more difficult to reason about the impact of a change to a component which has many responsibilities.
+إن السماح بالمدخلات غير المتوافقة، مع مرور الوقت، قد يقوض قدرة البروتوكولات على التطور حيث سيعتمد المنفذون في النهاية على هذه الحرية لبناء ميزاتهم.
 
 انظر أيضاً:
 
-- [Object-Oriented Programming](#todo)
-- [SOLID](#solid)
+- [قانون هيروم](#hyrums-law-the-law-of-implicit-interfaces)
+
+### صلب
+
+هذا اختصار يشير إلى:
+
+هذه مبادئ أساسية في [البرمجة الكائنية التوجه](#todo) . ينبغي أن تساعد مبادئ التصميم هذه المطورين على بناء أنظمة أكثر قابلية للصيانة.
+
+### مبدأ المسؤولية الواحدة
+
+[مبدأ المسؤولية الواحدة على ويكيبيديا](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+
+> ينبغي أن يكون لكل وحدة أو فئة مسؤولية واحدة فقط.
+
+المبدأ الأول من مبادئ " [SOLID](#solid) ". ينص هذا المبدأ على أن الوحدات أو الفئات البرمجية يجب أن تؤدي وظيفة واحدة فقط. عمليًا، يعني هذا أن أي تغيير بسيط في إحدى ميزات البرنامج يجب أن يتطلب تغييرًا في مكون واحد فقط. على سبيل المثال، تغيير طريقة التحقق من صحة كلمة المرور من حيث التعقيد يجب أن يتطلب تغييرًا في جزء واحد فقط من البرنامج.
+
+نظريًا، يُفترض أن يجعل هذا الكود أكثر متانة وأسهل في التعديل. فمعرفة أن للمكون المُراد تغييره مسؤولية واحدة فقط تعني أن *اختبار* هذا التغيير سيكون أسهل. بالعودة إلى المثال السابق، فإن تغيير مكون تعقيد كلمة المرور يجب أن يؤثر فقط على الخصائص المتعلقة بتعقيد كلمة المرور. أما تأثير تغيير مكون ذي مسؤوليات متعددة فيكون أكثر صعوبة.
+
+انظر أيضاً:
+
+- [البرمجة الكائنية التوجه](#todo)
+- [صلب](#solid)
 
 ### مبدأ الانفتاح/الإغلاق
 
-[The Open/Closed Principle on Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+[مبدأ الانفتاح/الإغلاق على ويكيبيديا](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
 
-> Entities should be open for extension and closed for modification.
+> ينبغي أن تكون الكيانات مفتوحة للتمديد ومغلقة للتعديل.
 
-The second of the '[SOLID](#solid)' principles. This principle states that entities (which could be classes, modules, functions and so on) should be able to have their behaviour *extended*, but that their *existing* behaviour should not be able to be modified.
+المبدأ الثاني من مبادئ " [SOLID](#solid) ". ينص هذا المبدأ على أنه ينبغي أن يكون بالإمكان *توسيع* سلوك الكيانات (التي قد تكون فئات أو وحدات أو دوال وما إلى ذلك)، ولكن لا ينبغي أن يكون بالإمكان تعديل سلوكها *الحالي* .
 
-As a hypothetical example, imagine a module which is able to turn a Markdown document into HTML. Now imagine there is a new syntax added to the Markdown specification, which adds support for mathematical equations. The module should be *open to extension* to implement the new mathematics syntax. However, existing syntax implementations (like paragraphs, bullets, etc) should be *closed for modification*. They already work, we don't want people to change them.
+كمثال افتراضي، تخيل وحدة برمجية قادرة على تحويل مستند Markdown إلى HTML. الآن، تخيل إضافة صيغة جديدة إلى مواصفات Markdown، تدعم المعادلات الرياضية. يجب أن تكون الوحدة *قابلة للتوسيع* لتطبيق الصيغة الرياضية الجديدة. مع ذلك، يجب أن تبقى الصيغ الحالية (مثل الفقرات، والنقاط، إلخ) *مغلقة أمام التعديل* . فهي تعمل بالفعل، ولا نريد أن يقوم المستخدمون بتغييرها.
 
-This principle has particular relevance for object-oriented programming, where we may design objects to be easily extended, but would avoid designing objects which can have their existing behaviour changed in unexpected ways.
-
-انظر أيضاً:
-
-- [Object-Oriented Programming](#todo)
-- [SOLID](#solid)
-
-### The Liskov Substitution Principle
-
-[The Liskov Substitution Principle on Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-
-> It should be possible to replace a type with a subtype, without breaking the system.
-
-The third of the '[SOLID](#solid)' principles. This principle states that if a component relies on a type, then it should be able to use subtypes of that type, without the system failing or having to know the details of what that subtype is.
-
-As an example, imagine we have a method which reads an XML document from a structure which represents a file. If the method uses a base type 'file', then anything which derives from 'file' should be usable in the function. If 'file' supports seeking in reverse, and the XML parser uses that function, but the derived type 'network file' fails when reverse seeking is attempted, then the 'network file' would be violating the principle.
-
-This principle has particular relevance for object-oriented programming, where type hierarchies must be modeled carefully to avoid confusing users of a system.
+لهذا المبدأ أهمية خاصة في البرمجة الكائنية التوجه، حيث يمكننا تصميم الكائنات بحيث يسهل توسيعها، ولكننا نتجنب تصميم الكائنات التي يمكن تغيير سلوكها الحالي بطرق غير متوقعة.
 
 انظر أيضاً:
 
-- [Object-Oriented Programming](#todo)
-- [SOLID](#solid)
+- [البرمجة الكائنية التوجه](#todo)
+- [صلب](#solid)
 
-### The Interface Segregation Principle
+### مبدأ استبدال ليسكوف
 
-[The Interface Segregation Principle on Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+[مبدأ ليسكوف للاستبدال على ويكيبيديا](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 
-> No client should be forced to depend on methods it does not use.
+> ينبغي أن يكون من الممكن استبدال نوع بنوع فرعي، دون تعطيل النظام.
 
-The fourth of the '[SOLID](#solid)' principles. This principle states that consumers of a component should not depend on functions of that component which it doesn't actually use.
+المبدأ الثالث من مبادئ " [SOLID](#solid) ". ينص هذا المبدأ على أنه إذا كان أحد المكونات يعتمد على نوع معين، فيجب أن يكون قادراً على استخدام الأنواع الفرعية لهذا النوع، دون أن يتعطل النظام أو يحتاج إلى معرفة تفاصيل هذا النوع الفرعي.
 
-As an example, imagine we have a method which reads an XML document from a structure which represents a file. It only needs to read bytes, move forwards or move backwards in the file. If this method needs to be updated because an unrelated feature of the file structure changes (such as an update to the permissions model used to represent file security), then the principle has been invalidated. It would be better for the file to implement a 'seekable-stream' interface, and for the XML reader to use that.
+على سبيل المثال، لنفترض أن لدينا دالة تقرأ مستند XML من بنية تمثل ملفًا. إذا كانت الدالة تستخدم نوعًا أساسيًا 'file'، فيجب أن يكون أي نوع مشتق من 'file' قابلاً للاستخدام داخل الدالة. إذا كان 'file' يدعم البحث العكسي، ويستخدم محلل XML هذه الوظيفة، ولكن النوع المشتق 'network file' يفشل عند محاولة البحث العكسي، فإن 'network file' سيخالف هذا المبدأ.
 
-This principle has particular relevance for object-oriented programming, where interfaces, hierarchies and abstract types are used to [minimise the coupling](#todo) between different components. [Duck typing](#todo) is a methodology which enforces this principle by eliminating explicit interfaces.
-
-انظر أيضاً:
-
-- [Object-Oriented Programming](#todo)
-- [SOLID](#solid)
-- [Duck Typing](#todo)
-- [Decoupling](#todo)
-
-### The Dependency Inversion Principle
-
-[The Dependency Inversion Principle on Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-
-> High-level modules should not be dependent on low-level implementations.
-
-The fifth of the '[SOLID](#solid)' principles. This principle states that higher-level orchestrating components should not have to know the details of their dependencies.
-
-As an example, imagine we have a program which read metadata from a website. We would assume that the main component would have to know about a component to download the webpage content, then a component which can read the metadata. If we were to take dependency inversion into account, the main component would depend only on an abstract component which can fetch byte data, and then an abstract component which would be able to read metadata from a byte stream. The main component would not know about TCP/IP, HTTP, HTML, etc.
-
-This principle is complex, as it can seem to 'invert' the expected dependencies of a system (hence the name). In practice, it also means that a separate orchestrating component must ensure the correct implementations of abstract types are used (e.g. in the previous example, *something* must still provide the metadata reader component a HTTP file downloader and HTML meta tag reader). This then touches on patterns such as [Inversion of Control](#todo) and [Dependency Injection](#todo).
+يُعد هذا المبدأ ذا أهمية خاصة للبرمجة الموجهة للكائنات، حيث يجب نمذجة التسلسلات الهرمية للأنواع بعناية لتجنب إرباك مستخدمي النظام.
 
 انظر أيضاً:
 
-- [Object-Oriented Programming](#todo)
-- [SOLID](#solid)
-- [Inversion of Control](#todo)
-- [Dependency Injection](#todo)
+- [البرمجة الكائنية التوجه](#todo)
+- [صلب](#solid)
 
-### The DRY Principle
+### مبدأ فصل الواجهة
 
-[The DRY Principle on Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+[مبدأ فصل الواجهات على ويكيبيديا](https://en.wikipedia.org/wiki/Interface_segregation_principle)
 
-> Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
+> لا ينبغي إجبار أي عميل على الاعتماد على أساليب لا يستخدمها.
 
-DRY is an acronym for *Don't Repeat Yourself*. This principle aims to help developers reducing the repetition of code and keep the information in a single place and was cited in 1999 by Andrew Hunt and Dave Thomas in the book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+المبدأ الرابع من مبادئ " [SOLID](#solid) ". ينص هذا المبدأ على أنه لا ينبغي لمستخدمي أي مكون الاعتماد على وظائف ذلك المكون التي لا يستخدمونها فعلياً.
 
-> The opposite of DRY would be *WET* (Write Everything Twice or We Enjoy Typing).
+على سبيل المثال، لنفترض أن لدينا دالة تقرأ مستند XML من بنية تمثل ملفًا. كل ما تحتاجه هذه الدالة هو قراءة البايتات، والتحرك للأمام أو للخلف داخل الملف. إذا احتاجت هذه الدالة إلى التحديث بسبب تغيير في خاصية غير مرتبطة ببنية الملف (مثل تحديث نموذج الأذونات المستخدم لتمثيل أمان الملف)، فإن المبدأ يصبح غير صالح. من الأفضل أن يُطبّق الملف واجهة "تدفق قابل للبحث"، وأن تستخدمها دالة قراءة XML.
 
-In practice, if you have the same piece of information in two (or more) different places, you can use DRY to merge them into a single one and reuse it wherever you want/need.
+يُعدّ هذا المبدأ ذا أهمية خاصة في البرمجة كائنية التوجه، حيث تُستخدم الواجهات والتسلسلات الهرمية والأنواع المجردة [لتقليل الترابط](#todo) بين المكونات المختلفة. وتُعتبر [تقنية "الكتابة الضمنية"](#todo) منهجية تُعزز هذا المبدأ من خلال إلغاء الواجهات الصريحة.
 
 انظر أيضاً:
 
-- [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+- [البرمجة الكائنية التوجه](#todo)
+- [صلب](#solid)
+- [الكتابة البطة](#todo)
+- [فك الارتباط](#todo)
 
-### The KISS principle
+### مبدأ انعكاس التبعية
+
+[مبدأ انعكاس التبعية على ويكيبيديا](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+> لا ينبغي أن تعتمد الوحدات النمطية عالية المستوى على التطبيقات منخفضة المستوى.
+
+المبدأ الخامس من مبادئ " [SOLID](#solid) ". ينص هذا المبدأ على أنه لا ينبغي أن تعرف مكونات التنسيق ذات المستوى الأعلى تفاصيل تبعياتها.
+
+على سبيل المثال، لنفترض أن لدينا برنامجًا يقرأ البيانات الوصفية من موقع ويب. نفترض أن المكون الرئيسي يحتاج إلى معرفة مكون لتحميل محتوى صفحة الويب، ثم مكون آخر لقراءة البيانات الوصفية. إذا أخذنا مبدأ عكس التبعية في الاعتبار، فسيعتمد المكون الرئيسي فقط على مكون مجرد لجلب البيانات الثنائية، ثم على مكون مجرد آخر لقراءة البيانات الوصفية من تدفق البيانات الثنائية. لن يكون المكون الرئيسي على دراية ببروتوكولات مثل TCP/IP وHTTP وHTML، وما إلى ذلك.
+
+هذا المبدأ معقد، إذ قد يبدو أنه "يعكس" التبعيات المتوقعة للنظام (ومن هنا جاءت التسمية). عمليًا، يعني هذا أيضًا ضرورة وجود مكون تنسيق منفصل لضمان استخدام التطبيقات الصحيحة للأنواع المجردة (على سبيل المثال، في المثال السابق، يجب أن يوفر *شيء ما* لمكون قارئ البيانات الوصفية أداة تنزيل ملفات HTTP وقارئ علامات HTML الوصفية). وهذا بدوره يمس أنماطًا مثل [عكس التحكم](#todo) [وحقن التبعية](#todo) .
+
+انظر أيضاً:
+
+- [البرمجة الكائنية التوجه](#todo)
+- [صلب](#solid)
+- [انعكاس التحكم](#todo)
+- [حقن التبعية](#todo)
+
+### مبدأ الجفاف
+
+[مبدأ DRY على ويكيبيديا](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+> يجب أن يكون لكل معلومة تمثيل واحد لا لبس فيه وموثوق به داخل النظام.
+
+DRY هو اختصار لعبارة *"لا تكرر نفسك"* . يهدف هذا المبدأ إلى مساعدة المطورين على تقليل تكرار التعليمات البرمجية والحفاظ على المعلومات في مكان واحد، وقد ذُكر في عام 1999 من قِبل أندرو هانت وديف توماس في كتاب ["المبرمج العملي".](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+> عكس كلمة DRY هو *WET* (اكتب كل شيء مرتين أو نحن نستمتع بالكتابة).
+
+من الناحية العملية، إذا كان لديك نفس المعلومة في مكانين (أو أكثر) مختلفين، يمكنك استخدام DRY لدمجها في معلومة واحدة وإعادة استخدامها أينما تريد/تحتاج.
+
+انظر أيضاً:
+
+- [المبرمج العملي](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+### مبدأ البساطة
 
 [القانون على ويكيبيديا](https://en.wikipedia.org/wiki/KISS_principle)
 
 > اجعل الأمر بسيطاً سخيفا
 
-The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided.  Originating in the U.S. Navy in 1960, the phrase has been associated with aircraft engineer Kelly Johnson.
+ينص مبدأ "البساطة" على أن معظم الأنظمة تعمل بشكل أفضل عندما تُبقى بسيطة بدلاً من أن تُعقّد؛ لذا، ينبغي أن تكون البساطة هدفاً أساسياً في التصميم، ويجب تجنب التعقيد غير الضروري. وقد نشأ هذا المصطلح في البحرية الأمريكية عام 1960، وارتبط بمهندس الطائرات كيلي جونسون.
 
-The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by an average mechanic in the field under combat conditions with only these tools. Hence, the "stupid" refers to the relationship between the way things break and the sophistication of the tools available to repair them, not the capabilities of the engineers themselves.
+يتجلى هذا المبدأ بوضوح في قصة جونسون الذي أعطى فريقًا من مهندسي التصميم مجموعة من الأدوات، مع التحدي المتمثل في أن تكون الطائرة النفاثة التي كانوا يصممونها قابلة للإصلاح بواسطة ميكانيكي عادي في الميدان في ظروف قتالية باستخدام هذه الأدوات فقط. ومن هنا، فإن كلمة "بسيطة" تشير إلى العلاقة بين طريقة تعطل الأشياء ومدى تطور الأدوات المتاحة لإصلاحها، وليس إلى قدرات المهندسين أنفسهم.
 
 انظر أيضاً:
 
-- [Gall's Law](#galls-law)
+- [قانون غال](#galls-law)
 
-### YAGNI
+### ياغني
 
-[YAGNI on Wikipedia](https://en.wikipedia.org/wiki/You_ain%27t_gonna_need_it)
+[YAGNI على ويكيبيديا](https://en.wikipedia.org/wiki/You_ain%27t_gonna_need_it)
 
-> Always implement things when you actually need them, never when you just foresee that you need them.
+> قم بتنفيذ الأشياء دائمًا عندما تحتاج إليها بالفعل، وليس عندما تتوقع فقط أنك ستحتاج إليها.
 >
-> ([Ron Jeffries](https://twitter.com/RonJeffries)) (XP co-founder and author of the book "Extreme Programming Installed")
+> ( [رون جيفريز](https://twitter.com/RonJeffries) ) (المؤسس المشارك لـ XP ومؤلف كتاب "Extreme Programming Installed")
 
-This *Extreme Programming* (XP) principle suggests developers should only implement functionality that is needed for the immediate requirements, and avoid attempts to predict the future by implementing functionality that might be needed later.
+يشير مبدأ *البرمجة المتطرفة* (XP) هذا إلى أنه يجب على المطورين تنفيذ الوظائف المطلوبة فقط للمتطلبات الفورية، وتجنب محاولات التنبؤ بالمستقبل من خلال تنفيذ وظائف قد تكون مطلوبة لاحقًا.
 
-Adhering to this principle should reduce the amount of unused code in the codebase, and avoid time and effort being wasted on functionality that brings no value.
-
-انظر أيضاً:
-
-- [Reading List: Extreme Programming Installed](#reading-list)
-
-### The Fallacies of Distributed Computing
-
-[The Fallacies of Distributed Computing on Wikipedia](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-
-Also known as *Fallacies of Networked Computing*, the Fallacies are a list of conjectures (or beliefs) about distributed computing, which can lead to failures in software development. The assumptions are:
-
-- The network is reliable
-- Latency is zero
-- Bandwidth is infinite
-- The network is secure
-- Topology doesn't change
-- There is one administrator
-- Transport cost is zero
-- The network is homogeneous
-
-The first four items were listed by [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) and [Tom Lyon](https://twitter.com/aka_pugs) around 1991 and first classified by [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) as the "Fallacies of Networked Computing". [L. Peter Deutsch](https://en.wikipedia.org/wiki/L._Peter_Deutsch) added the 5th, 6th and 7th fallacies. In the late 90's Gosling added the 8th fallacy.
-
-The group was inspired by what was happening at the time inside [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems).
-
-These fallacies should be considered carefully when designing code which is resilient; assuming any of these fallacies can lead to flawed logic which fails to deal with the realities and complexities of distributed systems.
+إن الالتزام بهذا المبدأ من شأنه أن يقلل من كمية التعليمات البرمجية غير المستخدمة في قاعدة التعليمات البرمجية، ويتجنب إهدار الوقت والجهد على الوظائف التي لا تضيف قيمة.
 
 انظر أيضاً:
 
-- [Foraging for the Fallacies of Distributed Computing (Part 1) - Vaidehi Joshi on Medium](https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-1-1b35c3b85b53)
+- [قائمة القراءة: البرمجة المتطرفة المثبتة](#reading-list)
 
-### The Principle of Least Astonishment
+### مغالطات الحوسبة الموزعة
 
-[The Principle of Least Astonishment on Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
+[مغالطات الحوسبة الموزعة على ويكيبيديا](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
-> People are part of the system. The design should match the user's experience, expectations, and mental models.
+تُعرف هذه المغالطات أيضاً باسم *مغالطات الحوسبة الشبكية* ، وهي عبارة عن قائمة من التخمينات (أو المعتقدات) حول الحوسبة الموزعة، والتي قد تؤدي إلى إخفاقات في تطوير البرمجيات. وتتلخص هذه الافتراضات فيما يلي:
+
+- الشبكة موثوقة
+- زمن الاستجابة صفر
+- عرض النطاق الترددي غير محدود
+- الشبكة آمنة
+- لا تتغير الطوبولوجيا
+- يوجد مسؤول واحد
+- تكلفة النقل صفر
+- الشبكة متجانسة
+
+أدرج [بيل جوي](https://en.wikipedia.org/wiki/Bill_Joy) [وتوم ليون](https://twitter.com/aka_pugs) البنود الأربعة الأولى حوالي عام ١٩٩١، وصنّفها [جيمس جوسلينج](https://en.wikipedia.org/wiki/James_Gosling) لأول مرة على أنها "مغالطات الحوسبة الشبكية". وأضاف [ل. بيتر دويتش](https://en.wikipedia.org/wiki/L._Peter_Deutsch) المغالطات الخامسة والسادسة والسابعة. وفي أواخر التسعينيات، أضاف جوسلينج المغالطة الثامنة.
+
+استلهمت المجموعة أفكارها مما كان يحدث في ذلك الوقت داخل [شركة صن مايكروسيستمز](https://en.wikipedia.org/wiki/Sun_Microsystems) .
+
+ينبغي مراعاة هذه المغالطات بعناية عند تصميم التعليمات البرمجية المرنة؛ إذ أن افتراض أي من هذه المغالطات يمكن أن يؤدي إلى منطق معيب يفشل في التعامل مع حقائق وتعقيدات الأنظمة الموزعة.
+
+انظر أيضاً:
+
+- [البحث عن مغالطات الحوسبة الموزعة (الجزء الأول) - فايدهي جوشي على منصة Medium](https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-1-1b35c3b85b53)
+
+### مبدأ أقل قدر من الدهشة
+
+[مبدأ أقل قدر من الدهشة على ويكيبيديا](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
+
+> يُعدّ الناس جزءًا من النظام. يجب أن يتوافق التصميم مع تجربة المستخدم وتوقعاته ونماذجه الذهنية.
 >
-> Frans Kaashoek
+> فرانس كاشوك
 
-This principle proposes that systems and interfaces should be designed in a way that features and functionality is easily discovered and matches users expectations. Features that 'surprise' users should be discouraged in favour of features that can be intuitively reasoned about based on existing patterns and practices.
+يقترح هذا المبدأ تصميم الأنظمة والواجهات بطريقة تسهل اكتشاف الميزات والوظائف وتلبي توقعات المستخدمين. وينبغي تجنب الميزات التي "تفاجئ" المستخدمين، لصالح الميزات التي يمكن فهمها بشكل بديهي بناءً على الأنماط والممارسات الحالية.
 
-Many examples are present in user interfaces, such as a 'pull down' gesture on a mobile appliation to refresh content. Another example would be command line tools, where many standards exist for how parameters are named, common parameters that should be available and so on.
+توجد أمثلة عديدة في واجهات المستخدم، مثل إيماءة "السحب لأسفل" في تطبيقات الجوال لتحديث المحتوى. ومن الأمثلة الأخرى أدوات سطر الأوامر، حيث توجد معايير عديدة لتسمية المعاملات، والمعاملات الشائعة التي ينبغي توفرها، وما إلى ذلك.
 
 انظر أيضاً:
 
-- [Convention Over Configuration](#todo)
+- [الاتفاقيات أهم من التكوين](#todo)
 
-## Reading List
+## قائمة القراءة
 
-If you have found these concepts interesting, you may enjoy the following books.
+إذا وجدت هذه المفاهيم مثيرة للاهتمام، فقد تستمتع بالكتب التالية.
 
-- [Clean Code - Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code) - One of the most well respected books on how to write clean, maintainable code.
-- [Extreme Programming Installed - Ron Jeffries, Ann Anderson, Chet Hendrikson](https://www.goodreads.com/en/book/show/67834) - Covers the core principles of Extreme Programming.
-- [Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter.](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - This book is difficult to classify. [Hofstadter's Law](#hofstadters-law) is from the book.
-- [Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman, Julie Sussman](https://www.goodreads.com/book/show/43713) - If you were a comp sci or electical engineering student at MIT or Cambridge this was your intro to programming. Widely reported as being a turning point in people's lives.
-- [The Cathedral and the Bazaar - Eric S. Raymond](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - a collection of essays on open source. This book was the source of [Linus's Law](#linuss-law).
-- [The Dilbert Principle - Scott Adams](https://www.goodreads.com/book/show/85574.The_Dilbert_Principle) - A comic look at corporate America, from the author who created the [Dilbert Principle](#the-dilbert-principle).
-- [The Mythical Man Month - Frederick P. Brooks Jr.](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) - A classic volume on software engineering. [Brooks' Law](#brooks-law) is a central theme of the book.
-- [The Peter Principle - Lawrence J. Peter](https://www.goodreads.com/book/show/890728.The_Peter_Principle) - Another comic look at the challenges of larger organisations and people management, the source of [The Peter Principle](#the-peter-principle).
+- [الكود النظيف - روبرت سي. مارتن](https://www.goodreads.com/book/show/3735293-clean-code) - أحد أكثر الكتب احتراماً حول كيفية كتابة كود نظيف وقابل للصيانة.
+- [كتاب "البرمجة المتطرفة المثبتة" - رون جيفريز، آن أندرسون، تشيت هندريكسون](https://www.goodreads.com/en/book/show/67834) - يغطي المبادئ الأساسية للبرمجة المتطرفة.
+- [غودل، إيشر، باخ: ضفيرة ذهبية أبدية - دوغلاس ر. هوفستاتر.](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - يصعب تصنيف هذا الكتاب. [قانون هوفستاتر](#hofstadters-law) مأخوذ من هذا الكتاب.
+- [بنية وتفسير برامج الحاسوب - هارولد أبيلسون، جيرالد جاي سوسمان، جولي سوسمان](https://www.goodreads.com/book/show/43713) - إذا كنت طالبًا في علوم الحاسوب أو الهندسة الكهربائية في معهد ماساتشوستس للتكنولوجيا أو جامعة كامبريدج، فهذا الكتاب هو مدخلك إلى عالم البرمجة. وقد ورد على نطاق واسع أنه كان نقطة تحول في حياة الكثيرين.
+- [الكاتدرائية والبازار - إريك س. ريموند](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - مجموعة مقالات حول المصادر المفتوحة. كان هذا الكتاب مصدر [قانون لينوس](#linuss-law) .
+- [مبدأ ديلبرت - سكوت آدامز](https://www.goodreads.com/book/show/85574.The_Dilbert_Principle) - نظرة كوميدية على عالم الشركات الأمريكية، من المؤلف الذي ابتكر [مبدأ ديلبرت](#the-dilbert-principle) .
+- [الشهر الأسطوري للرجل - فريدريك ب. بروكس الابن](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) - كتاب كلاسيكي في هندسة البرمجيات. [قانون بروكس](#brooks-law) هو موضوع محوري في الكتاب.
+- [مبدأ بيتر - لورانس ج. بيتر](https://www.goodreads.com/book/show/890728.The_Peter_Principle) - نظرة كوميدية أخرى على تحديات المنظمات الكبيرة وإدارة الأفراد، مصدر [مبدأ بيتر](#the-peter-principle) .
 
-## Online Resources
+## الموارد الإلكترونية
 
-Some useful resources and reading.
+بعض المصادر والقراءات المفيدة.
 
-- [CB Insights: 8 Laws Driving Success In Tech: Amazon's 2-Pizza Rule, The 80/20 Principle, &amp; More](https://www.cbinsights.com/research/report/tech-laws-success-failure) - an interesting write up of some laws which have been highly influential in technology.
+- [رؤى سي بي: 8 قوانين تقود النجاح في مجال التكنولوجيا: قاعدة البيتزا المزدوجة من أمازون، ومبدأ 80/20، والمزيد](https://www.cbinsights.com/research/report/tech-laws-success-failure) - مقال شيق عن بعض القوانين التي كان لها تأثير كبير في مجال التكنولوجيا.
 
-## PDF eBook
+## كتاب إلكتروني بصيغة PDF
 
-The project is available as a PDF eBook, [download the latest PDF eBook with this link](https://github.com/dwmkerr/hacker-laws/releases/latest/download/hacker-laws.pdf) or check the [release](https://github.com/dwmkerr/hacker-laws/releases) page for older versions.
+المشروع متاح ككتاب إلكتروني بصيغة PDF، [قم بتنزيل أحدث نسخة من الكتاب الإلكتروني بصيغة PDF من خلال هذا الرابط](https://github.com/dwmkerr/hacker-laws/releases/latest/download/hacker-laws.pdf) أو تحقق من صفحة [الإصدار للاطلاع](https://github.com/dwmkerr/hacker-laws/releases) على الإصدارات الأقدم.
 
-A new version of the eBook is created automatically when a new version tag is pushed.
+يتم إنشاء نسخة جديدة من الكتاب الإلكتروني تلقائيًا عند إضافة علامة إصدار جديدة.
 
-## Podcast
+## بودكاست
 
-Hacker Laws has been featured in [The Changelog](https://changelog.com/podcast/403), you can check out the Podcast episode with the link below:
+تم تسليط الضوء على قوانين المخترقين في [مدونة التغييرات](https://changelog.com/podcast/403) ، ويمكنكم الاطلاع على حلقة البودكاست عبر الرابط أدناه:
 
-<a href="https://changelog.com/podcast/403" target="_blank"></a><img src="./images/changelog-podcast.png" width="800px" alt="Changelog Podcast Image">
+<a href="https://changelog.com/podcast/403" target="_blank"></a><img src="./images/changelog-podcast.png" width="800px" alt="صورة بودكاست سجل التغييرات">
 
-## Contributors
+## المساهمون
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+الشكر موصول لهؤلاء الأشخاص الرائعين ( [رمز تعبيري](https://allcontributors.org/docs/en/emoji-key) ):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
@@ -1234,7 +1234,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%">
-<a href="https://github.com/hemmatt"><img src="https://avatars.githubusercontent.com/u/22114089?v=4?s=100" width="100px;" alt="Amir Hemmati"><br><sub><b>Amir Hemmati</b></sub></a><br><a href="https://github.com/dwmkerr/hacker-laws/commits?author=hemmatt" title="Documentation">📖</a>
+<a href="https://github.com/hemmatt"><img src="https://avatars.githubusercontent.com/u/22114089?v=4?s=100" width="100px;" alt="أمير همتي"><br> <sub><b>أمير همتي</b></sub></a><br> <a href="https://github.com/dwmkerr/hacker-laws/commits?author=hemmatt" title="الوثائق">📖</a>
 </td>
     </tr>
   </tbody>
@@ -1246,4 +1246,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+يتبع هذا المشروع مواصفات [المساهمة الجماعية](https://github.com/all-contributors/all-contributors) . نرحب بجميع أنواع المساهمات!
